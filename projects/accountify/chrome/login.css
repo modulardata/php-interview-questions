@@ -1,0 +1,146 @@
+/* Used for prompt / login status area on many pages */
+.login {
+	clear: right;
+	float: right;
+	width: 20em;
+}
+
+/* Used for independent pages (admin, invitations, settings, create...).
+	container/page distinction allows us to center in a cross-
+	browser way. */
+
+.login_page_container {
+	width: 100%;
+	text-align: center;
+}
+
+.login_page {
+	width: 60%;
+	margin: auto;
+	text-align: left;
+	padding: 1em;
+}
+
+.login table, td, th {
+	border-width: 2px;
+	padding: 2px;
+	border-style: solid;
+	border-color: gray;
+}
+
+.login_page table, td, th {
+	border-width: 2px;
+	padding: 2px;
+	border-style: solid;
+	border-color: gray;
+}
+
+.login h1 {
+	font-size: 125%;
+	font-weight: bold;
+}
+
+.login h2 {
+	font-size: 100%;
+	font-weight: bold;
+}
+
+.login_page h1 {
+	font-size: 125%;
+	font-weight: bold;
+}
+
+.login_page h2 {
+	font-size: 100%;
+	font-weight: bold;
+}
+.login_forgot_link {
+	display: inline;
+}
+
+.login_create_link {
+	display: inline;
+	padding-left: 3em;
+}
+
+.login_invitation_only {
+	display: inline;
+	padding-left: 3em;
+}
+
+.login_captcha {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.login_category_form_outer {
+	position: relative;
+}
+
+.login_category_form_inner {
+	position: relative;
+	padding-top: 2.5em;
+}
+
+.login_category_tabs {
+	width: 100%;
+	position: absolute;	
+	top: 0px;
+	left: 0px;
+	background: #DDDDDD;
+}
+
+.login_category_current_tab {
+	border: 0px;
+	padding: 5px;
+	background: #FFFFFF;
+}
+
+.login_category_tab {
+	border: 0px;
+	padding: 5px;
+	background: #DDDDDD;
+}
+
+.login_category_tab:hover {
+	color: #000088;
+}
+
+/* Work around the "enter key submits first button"
+	problem by convincing browsers to display
+	the first button in the HTML on the right
+	rather than the left via CSS */
+
+.login_create_buttons {
+	width: 20em;
+}
+
+.login_create_previous_button {
+	float: left;
+}
+
+.login_create_next_button {
+	float: right;
+}
+
+.login_create_finished_button {
+	float: right;
+}
+
+.login_create_cancel_button {
+	float: right;
+	padding-right: 2em;
+}
+
+.login_buttons {
+	padding-top: .5em;
+}
+
+.login_continue {
+	text-align: center;
+}
+
+.login_error {
+	background-color: yellow;
+}
+

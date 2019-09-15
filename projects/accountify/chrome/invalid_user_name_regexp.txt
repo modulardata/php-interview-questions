@@ -1,0 +1,1 @@
+Invalid user name. User names may only contain letters, digits, periods, underscores and dashes.

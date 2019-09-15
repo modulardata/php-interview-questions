@@ -1,0 +1,2 @@
+Sorry, REALNAME contains characters that
+cannot be accepted in the real name field.

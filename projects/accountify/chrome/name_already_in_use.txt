@@ -1,0 +1,3 @@
+That login name is already in use. A new login name has been 
+suggested for you: SUGGESTED_NAME
+
