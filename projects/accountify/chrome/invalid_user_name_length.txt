@@ -1,1 +1,0 @@
-Invalid user name. User names must be 40 characters or less. We apologize for any inconvenience.

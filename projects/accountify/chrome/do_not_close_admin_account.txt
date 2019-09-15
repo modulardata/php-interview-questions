@@ -1,3 +1,0 @@
-For security reasons the current administrative account cannot be closed. If 
-you wish to make a different account the administrative account, change
-adminemail and/or adminusername in login_config.php. 

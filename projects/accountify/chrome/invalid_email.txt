@@ -1,2 +1,0 @@
-Invalid email address. Perhaps you forgot the @something.com part. Email
-addresses may not be longer than 80 characters.

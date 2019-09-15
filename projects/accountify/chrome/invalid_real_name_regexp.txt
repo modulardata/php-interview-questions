@@ -1,1 +1,0 @@
-Invalid real name. Real names must contain at least two words and may only contain letters, digits, periods, underscores, spaces and dashes.

@@ -1,1 +1,0 @@
-Invalid real name. Real names must be 80 characters or less in length. We apologize for any inconvenience.
