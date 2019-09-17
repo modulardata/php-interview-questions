@@ -1,0 +1,15 @@
+<?xml version="1.0"?><HotelElement><Id>10452709</Id><Name>Milano</Name><Region><Id>20934</Id><Name>Madonna Di Campiglio</Name><CityId>17084</CityId></Region><Type>Hotel</Type><Address><Address1>Piazza Righi, 10</Address1><Address2 /><Address3 /><City /><State /><Zip>38084</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Situated in the heart of Madonna di Campiglio, few mts walking from the ski-lifts installation.
+
+Restaurant
+Breakfast buffet and choice of 3 different menus. Buffet of hors-d’oeuvre and desserts.
+New year’s dinner incluede in the price.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Hotel Milano dispose of living room, bar, game room for children, television room and private parking, fitness centre with bio-sauna, solarium of tri-facial (to pay on the spot), gymnasium.</Text></Description><Amenity><Code>Sauna</Code><Text>Sauna</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Amenity><Code>Garage</Code><Text>Garage</Text></Amenity><Amenity><Code>Gym</Code><Text>Fitness room / Gym</Text></Amenity><Amenity><Code>Sun roof solarium</Code><Text>Sun roof solarium</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

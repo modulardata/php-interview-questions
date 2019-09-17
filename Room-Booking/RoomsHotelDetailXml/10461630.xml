@@ -1,0 +1,15 @@
+<?xml version="1.0"?><HotelElement><Id>10461630</Id><Name>Brisino</Name><Region><Id>20966</Id><Name>Stresa</Name><CityId>17102</CityId></Region><Type>Hotel</Type><Address><Address1>Via Per Magognino, 2</Address1><Address2 /><Address3 /><City /><State /><Zip>28838</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The Hotel Brisino is situated on the hills just 3 km from Stresa (5 minutes by car), 2 Km from the A26 Voltri Sempione (Exit Carpugnino) and 2 Km from the "Golf Club Des Iles Borromées and Golf Club Alpino di Stresa".
+
+Restaurant
+The Hotel's restaurant offers a traditional cuisine and simple, served with utmost care and quality of flavors.
+From April to October the restaurant is always open for half boad with three courses. Breakfast is prepared in the restaurant and service is presented with a buffet of sweet, salty, cured meats and cheeses.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+We have a lift, hall, dining room, reading room and television, bar, terrace with lake view, WI-FI and private parking.</Text></Description><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>FreeOnSiteCarparking</Code><Text>Free On - Site Car parking</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

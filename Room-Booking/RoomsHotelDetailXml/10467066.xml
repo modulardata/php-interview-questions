@@ -1,0 +1,14 @@
+<?xml version="1.0"?><HotelElement><Id>10467066</Id><Name>Principe Napolit'amo</Name><Region><Id>21002</Id><Name>Naples</Name><CityId>17120</CityId></Region><Type>Hotel</Type><Address><Address1>Via Toledo, 148</Address1><Address2 /><Address3 /><City /><State /><Zip>80010</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Napolit'amo Hotel Toledo is situated in the heart of Naples, in the historic Palazzo del Principe Tocco of Montemiletto.
+
+Restaurant
+Characterized by a great care in product choice, wine selection and menu design with respect to the seasonal variety. The restaurant proposes a buffet breakfast with an ample selection of fresh and high quality products, a selection of biological products and a table service for hot beverages.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Guests can freely use an Internet point placed in the lobby of the hotel.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>MeetingRooms</Code><Text>Meeting rooms</Text></Amenity><Amenity><Code>AirConditioning</Code><Text>Air conditioning</Text></Amenity><Amenity><Code>RoomService</Code><Text>Room service</Text></Amenity><Amenity><Code>CarRentDesk</Code><Text>Car rental desk</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>LaundryService</Code><Text>Laundry service</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>InternetAccess</Code><Text>InternetAccess</Text></Amenity><Amenity><Code>Babysitter</Code><Text>Babysitter</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?><HotelElement><Id>10474574</Id><Name>Torre Di Cala Piccola</Name><Region><Id>40893</Id><Name>Porto San Stefano</Name><CityId>40893</CityId></Region><Type>Hotel</Type><Address><Address1>Cala Piccola Monte Argentario</Address1><Address2 /><Address3 /><City>Grosseto</City><State /><Zip>58019</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>4</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The luxury Hotel Torre di Cala Piccola boasts an amazing location on the Argentario promontory, overlooking the shimmering waters of the Tyrrhenian Sea.
+
+Restaurant
+Our restaurant "La Cambusa" proposes a wide selection of fish and meat dishes prepared to a high standard by our chef together with a well assorted selection of wines.
+
+Lobby
+Our barman serves a wide range of cocktails and drinks. Wireless internet in the hall and in the garden.
+
+More Informations
+During the summer period dinner is served on the lawn of our garden where you can admire the magnificent sunset over the islands. Wellness center with possibility of massages, manicure and pedicure treatments.
+
+Check in: from 03.00 p.m.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>MeetingRooms</Code><Text>Meeting rooms</Text></Amenity><Amenity><Code>RoomService</Code><Text>Room service</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>LaundryService</Code><Text>Laundry service</Text></Amenity><Amenity><Code>SwimmingPool</Code><Text>Swimming pool</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>40</Score><Description>Four star</Description></Rating><Rank>1</Rank></HotelElement>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?><HotelElement><Id>10474571</Id><Name>President</Name><Region><Id>21025</Id><Name>Montecatini Terme</Name><CityId>17137</CityId></Region><Type>Hotel</Type><Address><Address1>Corso Matteotti, 119</Address1><Address2 /><Address3 /><City>Pistoia</City><State /><Zip>51016</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The President Hotel of Montecatini Terme is located just off the A11 motorway, near the city center. Thanks to its strategic location, this hotel is ideal for business trips, or simply to who wants to escape from everyday routine.
+
+Restaurant
+The dining room with adjoining garden and the adjacent open spaces, are ideal places to enjoy a varied and rich breakfast. The kitchen is an important part of the Hotel where are selected seasonal products to create dishes of the traditional Tuscan and Mediterranean cuisine.
+
+More Informations
+Services that require additional supplement: Airport Shuttle, Shuttle city center, laundry.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>RoomService</Code><Text>Room service</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>LaundryService</Code><Text>Laundry service</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

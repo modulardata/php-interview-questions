@@ -1,0 +1,19 @@
+<?xml version="1.0"?><HotelElement><Id>10478510</Id><Name>Villa Elisa</Name><Region><Id>21031</Id><Name>Rimini</Name><CityId>17146</CityId></Region><Type>Hotel</Type><Address><Address1>Viale Giovanni Pascoli, 127</Address1><Address2 /><Address3 /><City /><State /><Zip>47921</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Villa Elisa Hotel is situated in Marina Centro of Rimini, at about 150 meters from the beach, is also close to the evening walk.
+
+Restaurant
+Air conditioned Restaurant.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Last refurbishment: 2010.
+
+Breakfast:sweet and salty buffet. 
+During meals fixed menu of 3 courses, fruit and dessert.
+
+Check in from 02:00 pm - Check out by 10:00 am.</Text></Description><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?><HotelElement><Id>10455654</Id><Name>Locanda Dell'angelo Paracucchi</Name><Region><Id>17098</Id><Name>La Spezia</Name><CityId>17098</CityId></Region><Type>Hotel</Type><Address><Address1>Viale Xxv Aprile, 60</Address1><Address2 /><Address3 /><City /><State /><Zip>19031</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The hotel is located about 1 km from the beach and 2 km from the city center.
+
+Restaurant
+Renowned restaurant with possibilty of a la carte menu with direct payment.  The breakfast buffet is available until 11:00.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Swimming pool free equipped with deck chairs and sunumbrellas from mid-May to late September. In charge: tennis 400 m, riding about 3 km, golf (9 holes) about 10 km, bike and scooter about 1.5 Km</Text></Description><Amenity><Code>AirConditioning</Code><Text>Air conditioning</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>SwimmingPool</Code><Text>Swimming pool</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

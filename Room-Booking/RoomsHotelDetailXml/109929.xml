@@ -1,0 +1,32 @@
+<?xml version="1.0"?><HotelElement><Id>109929</Id><Name>Ariel</Name><Region><Id>21268</Id><Name>Cala D'Or</Name><CityId>18419</CityId></Region><Type>Hotel</Type><Address><Address1>ARIEL 1</Address1><Address2 /><Address3 /><City>CALA D'OR</City><State /><Zip>07660</Zip><Country>SPAIN</Country><Tel>971.657760</Tel><Fax>971.657052</Fax><Email>GAVIMAR@GAVIMAR.COM</Email><Url /></Address><Stars>3</Stars><GeneralInfo><Latitude>39.3757644</Latitude><Longitude>3.2305995</Longitude></GeneralInfo><Photo><Url>/RXLImages/1024/37/42/3742Golf.jpg</Url><Width>180</Width><Height>144</Height><Bytes>7816</Bytes><Caption>Golf</Caption><ThumbnailUrl>/RXLImages/1024/37/42/3742Golfthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2089</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/37/42/3742Main.jpg</Url><Width>180</Width><Height>144</Height><Bytes>8368</Bytes><Caption>Main</Caption><ThumbnailUrl>/RXLImages/1024/37/42/3742Mainthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2415</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1024/37/42/3742Kids.jpg</Url><Width>180</Width><Height>144</Height><Bytes>8747</Bytes><Caption>Kids</Caption><ThumbnailUrl>/RXLImages/1024/37/42/3742Kidsthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2454</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/37/42/3742LR.jpg</Url><Width>180</Width><Height>144</Height><Bytes>7430</Bytes><Caption>LR</Caption><ThumbnailUrl>/RXLImages/1024/37/42/3742LRthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2351</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/37/42/3742Pools.jpg</Url><Width>180</Width><Height>144</Height><Bytes>9812</Bytes><Caption>Pools</Caption><ThumbnailUrl>/RXLImages/1024/37/42/3742Poolsthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2750</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/37/42/3742xml.jpg</Url><Width>180</Width><Height>144</Height><Bytes>8368</Bytes><Caption>xml</Caption><ThumbnailUrl>/RXLImages/1024/37/42/3742xmlthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2415</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Description><Language>en</Language><Type>General</Type><Text>The Ariel Complex is beautifully situated beside the magnificent beach of Cala Gran, a few minutes from the centre of Cala d or and approximately 60 km from the airport.  It is a wonderful holiday destination made for rest and relaxation while also offering a touch of entertainment.  The complex has an assortment of facilities to choose from to make ensure guests utmost comfort and satisfaction. The Ariel Complex will surely not disappoint even the most demanding of visitors.'
+'&lt;b&gt;All Inclusive Description - &lt;/b&gt;'
+'STANDARD'
+'MEALS
+
+Breakfast
+Breakfast Buffet (Main Restaurant: 7:00-10:00)
+
+Lunch
+Lunch Buffet (Main Restaurant: 13:00-15:00)
+
+Dinner
+Dinner Buffet (Main Restaurant: 19:00-21:00)
+
+SNACKS
+Snacks: 10:00-23:30
+
+DRINKS
+Drinks (Main Bar: 10:00-22:00)'
+'&lt;b&gt;All Inclusive Consists of &lt;/b&gt;'
+'Aerobic'
+'Animation'
+'Disco'
+'Gym'
+'Local Alcoholic drinks'
+'Local Beer'
+'Local Spirits'
+'Local Wine'
+'Soft Drinks'
+'Table Tennis'
+'Volleyball'
+'</Text></Description><Amenity><Code>Sauna</Code><Text>Sauna</Text></Amenity><Amenity><Code>Safe</Code><Text>Safe</Text></Amenity><Amenity><Code>MiniBarInRoom</Code><Text>Mini-bar</Text></Amenity><Amenity><Code>Kitchen</Code><Text>Kitchen</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>LaundryService</Code><Text>Laundry service</Text></Amenity><Amenity><Code>FreshWaterPool</Code><Text>Fresh Water Pool</Text></Amenity><Amenity><Code>SunBathingTerrace</Code><Text>Sun Bathing Terrace</Text></Amenity><Amenity><Code>Balcony</Code><Text>Balcony</Text></Amenity><Amenity><Code>TelephoneInRoom</Code><Text>Direct Dial Telephone</Text></Amenity><Amenity><Code>Fridge</Code><Text>Fridge</Text></Amenity><Amenity><Code>BathRoom</Code><Text>Bath Room</Text></Amenity><Amenity><Code>Heating</Code><Text>Heating</Text></Amenity><Amenity><Code>Restaurants</Code><Text>Restaurants</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

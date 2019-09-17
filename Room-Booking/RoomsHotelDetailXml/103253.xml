@@ -1,0 +1,32 @@
+<?xml version="1.0"?><HotelElement><Id>103253</Id><Name>Pinomar Playa</Name><Region><Id>21203</Id><Name>Marbella</Name><CityId>18378</CityId></Region><Type>Resorts</Type><Address><Address1>CADIZ KM 189</Address1><Address2 /><Address3 /><City>MARBELLA</City><State /><Zip>29600</Zip><Country>SPAIN</Country><Tel>952.850140</Tel><Fax>952.833948</Fax><Email>PINOMAR-PLAYA@HOTELESPLAYA.COM</Email><Url /></Address><Stars>3</Stars><GeneralInfo><Latitude>36.5121652</Latitude><Longitude>-4.8801993</Longitude></GeneralInfo><Photo><Url>/RXLImages/1024/19/70/1970Main.jpg</Url><Width>180</Width><Height>144</Height><Bytes>6292</Bytes><Caption>Main</Caption><ThumbnailUrl>/RXLImages/1024/19/70/1970Mainthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2141</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1024/19/70/1970inpool.jpg</Url><Width>180</Width><Height>144</Height><Bytes>5860</Bytes><Caption>inpool</Caption><ThumbnailUrl>/RXLImages/1024/19/70/1970inpoolthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1930</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/19/70/1970resto.jpg</Url><Width>180</Width><Height>144</Height><Bytes>6978</Bytes><Caption>resto</Caption><ThumbnailUrl>/RXLImages/1024/19/70/1970restothumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2328</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/19/70/1970rm.jpg</Url><Width>180</Width><Height>144</Height><Bytes>5955</Bytes><Caption>rm</Caption><ThumbnailUrl>/RXLImages/1024/19/70/1970rmthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2026</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/19/70/1970pool.jpg</Url><Width>180</Width><Height>144</Height><Bytes>6114</Bytes><Caption>pool</Caption><ThumbnailUrl>/RXLImages/1024/19/70/1970poolthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2044</ThumbnailBytes><PhotoType>SwimmingPool</PhotoType></Photo><Photo><Url>/RXLImages/1024/19/70/1970xml.jpg</Url><Width>180</Width><Height>144</Height><Bytes>6292</Bytes><Caption>xml</Caption><ThumbnailUrl>/RXLImages/1024/19/70/1970xmlthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2141</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Description><Language>en</Language><Type>General</Type><Text>Pinomar Playa is located in the picturesque area of Marbella, Malaga. It’s classified as a 3 star hotel providing for its guests all elements ensuring them an entertaining and joyful stay. The hotel amenities include swimming pools, a restaurant, bars, golf courses, among others. The hotel is located only 200 m from the beach, 6 km from the town centre and approximately 59 km from the Malaga airport. 
+Please note that meals are served either on premises or at nearby Hotel Marbella Playa, depending on occupancy.'
+'&lt;b&gt;All Inclusive Description - &lt;/b&gt;'
+'STANDARD'
+'MEALS
+Breakfast Buffet (08:00-10:30) 
+
+Lunch Buffet (13:30-16:00) 
+
+Dinner Buffet (19:00-22:30) 
+
+SNACKS
+
+Snacks (11:00-17:00) 
+Light Afternoon Meal (17:00-19:00)
+
+DRINKS
+Drinks (10:00-01:00)'
+'&lt;b&gt;All Inclusive Consists of &lt;/b&gt;'
+'Animation'
+'Coffee'
+'Ice Cream'
+'Juice'
+'Local Alcoholic drinks'
+'Local Beer'
+'Local Wine'
+'Mini Golf'
+'Snacks'
+'Soft Drinks'
+'Table Tennis'
+'Tea'
+'</Text></Description><Amenity><Code>Safe</Code><Text>Safe</Text></Amenity><Amenity><Code>AirConditioning</Code><Text>Air conditioning</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>FreshWaterPool</Code><Text>Fresh Water Pool</Text></Amenity><Amenity><Code>SunBathingTerrace</Code><Text>Sun Bathing Terrace</Text></Amenity><Amenity><Code>Balcony</Code><Text>Balcony</Text></Amenity><Amenity><Code>TelephoneInRoom</Code><Text>Direct Dial Telephone</Text></Amenity><Amenity><Code>BathRoom</Code><Text>Bath Room</Text></Amenity><Amenity><Code>Heating</Code><Text>Heating</Text></Amenity><Amenity><Code>Restaurants</Code><Text>Restaurants</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

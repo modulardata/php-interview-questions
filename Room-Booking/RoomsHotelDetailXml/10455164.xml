@@ -1,0 +1,9 @@
+<?xml version="1.0"?><HotelElement><Id>10455164</Id><Name>Europa</Name><Region><Id>5032213</Id><Name>Grado</Name><CityId>5032213</CityId></Region><Type>Hotel</Type><Address><Address1>Viale Kennedy, 3</Address1><Address2 /><Address3 /><City>Gorizia</City><State /><Zip>34073</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Hotel Europa has been recently renovated and is situated in the new residential block called Città Giardino, at a very few steps from the sea, in front of a new sandbathing establishment and thermal baths, not far away from tennis courts.
+
+Restaurant
+A rich continental breakfast is waiting for you. The restaurant always offers at its guests a varied and refined menu, which is conceived to satisfy the multiple needs of many different customers.
+
+More Informations
+Many bicycles are available to speed up your movings and for pleasant outings.
+There is a private indoor and outdoor car park. Internet wi-fi connection is freely at your disposal in the hall.</Text></Description><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

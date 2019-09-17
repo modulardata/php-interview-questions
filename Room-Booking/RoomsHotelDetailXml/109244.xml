@@ -1,0 +1,35 @@
+<?xml version="1.0"?><HotelElement><Id>109244</Id><Name>Vista Odin</Name><Region><Id>21264</Id><Name>El Arenal </Name><CityId>18419</CityId></Region><Type>Hotel</Type><Address><Address1>MAR ARAL, 13</Address1><Address2 /><Address3 /><City>PLAYA DE PALMA</City><State /><Zip>07600</Zip><Country>SPAIN</Country><Tel>971262728</Tel><Fax>971492209</Fax><Email /><Url /></Address><Stars>3</Stars><GeneralInfo><Latitude>39.5288862</Latitude><Longitude>2.7555818</Longitude></GeneralInfo><Photo><Url>/RXLImages/1024/51/81/5181main.jpg</Url><Width>180</Width><Height>144</Height><Bytes>7028</Bytes><Caption>main</Caption><ThumbnailUrl>/RXLImages/1024/51/81/5181mainthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2144</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1024/51/81/5181restaurant.jpg</Url><Width>180</Width><Height>144</Height><Bytes>7015</Bytes><Caption>restaurant</Caption><ThumbnailUrl>/RXLImages/1024/51/81/5181restaurantthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2255</ThumbnailBytes><PhotoType>LobbyRestaurantAndBar</PhotoType></Photo><Photo><Url>/RXLImages/1024/51/81/5181room.jpg</Url><Width>180</Width><Height>144</Height><Bytes>4909</Bytes><Caption>room</Caption><ThumbnailUrl>/RXLImages/1024/51/81/5181roomthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1765</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1024/51/81/5181xml.jpg</Url><Width>180</Width><Height>144</Height><Bytes>7028</Bytes><Caption>xml</Caption><ThumbnailUrl>/RXLImages/1024/51/81/5181xmlthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2144</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Description><Language>en</Language><Type>General</Type><Text>Only 380 mts away from a white sandy beach, and in the quiet residential area of “Las Maravillas”, the Vista Odín combines quiet and familiar treat with the major night life and commercial areas of the island within a 5 minute walk.
+
+
+Constanlty renovated, it offers wide lobby areas, separated child swimmingpool, beach-bar, and also airconditioning and tv in every room.
+Bus to the city of Palma within 1 minute walk and only 7 km away from the airport.'
+'&lt;b&gt;All Inclusive Description - &lt;/b&gt;'
+'STANDARD'
+'MEALS
+
+
+Breakfast
+
+Lunch
+
+Dinner
+
+
+
+DRINKS
+
+
+
+SNACKS'
+'&lt;b&gt;All Inclusive Consists of &lt;/b&gt;'
+'Breakfast Buffet'
+'Coffee'
+'Dinner Buffet'
+'Local Alcoholic drinks'
+'Local Beer'
+'Local Beer Served During Meals'
+'Local Wine'
+'Lunch Buffet'
+'Snacks'
+'Soft Drinks'
+'</Text></Description><Amenity><Code>Safe</Code><Text>Safe</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>LaundryService</Code><Text>Laundry service</Text></Amenity><Amenity><Code>Balcony</Code><Text>Balcony</Text></Amenity><Amenity><Code>TelephoneInRoom</Code><Text>Direct Dial Telephone</Text></Amenity><Amenity><Code>BathRoom</Code><Text>Bath Room</Text></Amenity><Amenity><Code>Heating</Code><Text>Heating</Text></Amenity><Amenity><Code>Restaurants</Code><Text>Restaurants</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

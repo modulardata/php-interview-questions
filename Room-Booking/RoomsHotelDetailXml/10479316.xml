@@ -1,0 +1,14 @@
+<?xml version="1.0"?><HotelElement><Id>10479316</Id><Name>Tampico</Name><Region><Id>21075</Id><Name>Lido Di Jesolo</Name><CityId>17174</CityId></Region><Type>Hotel</Type><Address><Address1>Via Olanda, 168</Address1><Address2 /><Address3 /><City /><State /><Zip>30017</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Tampico Hotel offers a cool, friendly, close to the beach of Jesolo.
+
+Restaurant
+The hotel restaurant serves typical Italian cuisine and local specialties. There is also a bar.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+It offers sun beds and umbrellas on the private beach and free parking.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>Bike Rental</Code><Text>Bike Rental</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

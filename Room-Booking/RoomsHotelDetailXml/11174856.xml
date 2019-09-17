@@ -1,0 +1,14 @@
+<?xml version="1.0"?><HotelElement><Id>11174856</Id><Name>Italo</Name><Region><Id>20934</Id><Name>Madonna Di Campiglio</Name><CityId>17084</CityId></Region><Type>Hotel</Type><Address><Address1>Piazza Palù</Address1><Address2 /><Address3 /><City /><State /><Zip>38086</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The hotel is situated in quiet position, where guests are allowed to access ski installation easily. Ice skating rink and summer path at few steps.
+
+Restaurant
+
+
+Outside
+
+
+Lobby
+
+
+More Informations
+The hotel is provided with lift, ski deposit, warmed boots deposit, internet point, solarium terrace.</Text></Description><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

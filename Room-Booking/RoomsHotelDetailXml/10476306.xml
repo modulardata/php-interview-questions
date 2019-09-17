@@ -1,0 +1,21 @@
+<?xml version="1.0"?><HotelElement><Id>10476306</Id><Name>Universal</Name><Region><Id>17156</Id><Name>Senigallia</Name><CityId>17156</CityId></Region><Type>Hotel</Type><Address><Address1>Lungomare Mameli, 47</Address1><Address2 /><Address3 /><City /><State /><Zip>60019</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Situated in a favourable position directly by the beach and only 500 metres from the centre.
+
+Restaurant
+Restaurant with panoramic view. 
+
+Outside
+
+
+Lobby
+
+
+More Informations
+GENERAL INFO:
+Services: Beauty Centre, shop, parking, hairdressers.
+Sport and entertainment: Games room, entertainment for adults and children, ping pong, use of bicycles.  Weekly evening entertainment with live music.  Sauna, gym, solarium and turkish bath.
+
+Beach: Sand.
+
+OPTIONAL SERVICES TO PAY DIRECTLY IN HOTEL: 
+Children (0-1 years): eventual meals to be paid directly in hotel.</Text></Description><Amenity><Code>Sauna</Code><Text>Sauna</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Amenity><Code>Gym</Code><Text>Fitness room / Gym</Text></Amenity><Amenity><Code>InternetAccess</Code><Text>InternetAccess</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

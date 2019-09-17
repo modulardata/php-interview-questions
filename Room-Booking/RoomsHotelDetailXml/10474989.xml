@@ -1,0 +1,14 @@
+<?xml version="1.0"?><HotelElement><Id>10474989</Id><Name>Minerva</Name><Region><Id>21027</Id><Name>Ravenna</Name><CityId>17144</CityId></Region><Type>Hotel</Type><Address><Address1>Via Maroncelli, 1</Address1><Address2 /><Address3 /><City /><State /><Zip>48121</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Hotel Minerva is centrally located, close to the railway station and the historic center.
+
+Restaurant
+Buffet Breakfast
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Check-In: from 14:00 The hotel offers its guests a bar, 24 hour reception, TV room and a lift. Furthermore, the possibility of parking at 80 meters from the hotel to availability.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>InternetAccess</Code><Text>InternetAccess</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

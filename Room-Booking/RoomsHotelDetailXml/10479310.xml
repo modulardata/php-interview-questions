@@ -1,0 +1,13 @@
+<?xml version="1.0"?><HotelElement><Id>10479310</Id><Name>Sorella Luna</Name><Region><Id>21067</Id><Name>Assisi</Name><CityId>17170</CityId></Region><Type>Hotel</Type><Address><Address1>Via Frate Elia 3/3a</Address1><Address2 /><Address3 /><City /><State /><Zip>06081</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The Hotel is situated in a prime location in the historic center of Assisi, just 100 meters from the Basilica of San Francesco and is in a strategic position to visit all the historical and architectural beauties of the city.
+
+Restaurant
+
+
+Outside
+
+
+Lobby
+
+
+More Informations</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>MeetingRooms</Code><Text>Meeting rooms</Text></Amenity><Amenity><Code>AirConditioning</Code><Text>Air conditioning</Text></Amenity><Amenity><Code>RoomService</Code><Text>Room service</Text></Amenity><Amenity><Code>CarRentDesk</Code><Text>Car rental desk</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Babysitter</Code><Text>Babysitter</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

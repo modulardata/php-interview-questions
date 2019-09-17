@@ -1,0 +1,12 @@
+<?xml version="1.0"?><HotelElement><Id>10456228</Id><Name>Antico Borgo</Name><Region><Id>20962</Id><Name>Riva del Garda</Name><CityId>17100</CityId></Region><Type>Hotel</Type><Address><Address1>Via Diaz, 15</Address1><Address2 /><Address3 /><City>Trento</City><State /><Zip>38066</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>4</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The Hotel Antico Borgo is situated in the romantic centre of Riva del Garda, in a pedestrian area and just a few steps from the lake shores and only 30km from Trento.
+
+Restaurant
+The elegant restaurant offers a top level service: guests can choose between bed and breakfast or half board arrangement. In the latter case, dinner is served at the table and drinks are not included.
+
+More Informations
+The hotel has a living room with bar, a  tv room and a beautiful terrace with solarium and fitness corner.
+Wi-Fi connection in the hall also available. Moreover, not far from the hotel, guests will find a parking the hotel has a special agreement for.
+Opening hours: 24h
+Check-in: 17.00
+Check-out: 10.00</Text></Description><Amenity><Code>MeetingRooms</Code><Text>Meeting rooms</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Amenity><Code>Babysitter</Code><Text>Babysitter</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Rating><System>Stars</System><Score>40</Score><Description>Four star</Description></Rating><Rank>1</Rank></HotelElement>

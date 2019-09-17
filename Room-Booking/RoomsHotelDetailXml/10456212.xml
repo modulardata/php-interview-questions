@@ -1,0 +1,14 @@
+<?xml version="1.0"?><HotelElement><Id>10456212</Id><Name>Villa Dirce</Name><Region><Id>116530</Id><Name>Limone Sul Garda</Name><CityId>17100</CityId></Region><Type>Hotel</Type><Address><Address1>Via Iv Novembre, 80</Address1><Address2 /><Address3 /><City /><State /><Zip>25010</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>4</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Not far from the historic old town, the Hotel Villa Dirce has a lake view, quiet, assures the guest a quiet and peaceful environment.
+
+Restaurant
+From the glass walls of the 'large dining room offers a spectacular view of both shores of Lake Garda.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Hotel Villa Dirce has a swimming pool, sunbeds, solariums and adjacent snack bar, air-conditioned restaurant for guests and for those passing through.</Text></Description><Amenity><Code>CarRentDesk</Code><Text>Car rental desk</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>SwimmingPool</Code><Text>Swimming pool</Text></Amenity><Rating><System>Stars</System><Score>40</Score><Description>Four star</Description></Rating><Rank>1</Rank></HotelElement>

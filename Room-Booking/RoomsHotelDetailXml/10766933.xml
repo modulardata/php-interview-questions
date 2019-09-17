@@ -1,0 +1,5 @@
+<?xml version="1.0"?><HotelElement><Id>10766933</Id><Name>Parkhotel Vienna</Name><Region><Id>17959</Id><Name>Bielsko-Biala</Name><CityId>17959</CityId></Region><Type>Hotel</Type><Address><Address1>Ul. Bystrzanska 48, (Ex.mamaison Parkhotel Vienna)</Address1><Address2 /><Address3 /><City>Bielsko-Biala</City><State /><Zip /><Country>Poland</Country><Tel>0048 33 4966266</Tel><Fax>0048334966296</Fax><Email /><Url /></Address><Stars>4</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Wellness room (massages)
+Casino (300 sq. m.)
+All rooms equiped with: air conditionig, mini bar, tv sat, large bathroom
+6 conference rooms (total capacity 500 pax)
+Restaurant for 250 pax, climatic lobby bar</Text></Description><Description><Language>en</Language><Type>SurroundingArea</Type><Text>The hotel is located near the main roadway from Katovice via Bielsko to Szczyrk.</Text></Description><Rating><System>Stars</System><Score>40</Score><Description>Four star</Description></Rating><Rank>1</Rank></HotelElement>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?><HotelElement><Id>10436620</Id><Name>Derby</Name><Region><Id>5031923</Id><Name>Bormio</Name><CityId>5031923</CityId></Region><Type>Hotel</Type><Address><Address1>Via Funivia, 15</Address1><Address2 /><Address3 /><City /><State /><Zip>23032</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Situated near the centre in a quiet sunny position only a  few metres away from the ski lifts.
+
+Restaurant
+ Breakfast buffet, dinner with choice of different menus accompanied by a vegetable buffet.New years dinner 31.12 included				
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Other facilities include: Bar, tavern, TV room, ski deposit, lift, sauna, private parking and garage.
+
+Check in: from 4 p.m. Check out: by 10:30</Text></Description><Amenity><Code>Sauna</Code><Text>Sauna</Text></Amenity><Amenity><Code>Playground</Code><Text>Playground</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

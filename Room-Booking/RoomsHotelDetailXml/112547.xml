@@ -1,0 +1,36 @@
+<?xml version="1.0"?><HotelElement><Id>112547</Id><Name>El Duque</Name><Region><Id>21290</Id><Name>Costa Adeje</Name><CityId>18459</CityId></Region><Type>Hotel</Type><Address><Address1>AVD. JARDINES DEL DUQUE s/n</Address1><Address2 /><Address3 /><City>COSTA ADEJE</City><State /><Zip>38660</Zip><Country>SPAIN</Country><Tel>922718500</Tel><Fax>922719031</Fax><Email>RESERVAS@EL-DUQUE.COM</Email><Url /></Address><Stars>3</Stars><GeneralInfo><Latitude>28.0558361</Latitude><Longitude>-16.7205154</Longitude></GeneralInfo><Photo><Url>/RXLImages/1024/18/9/189Main.jpg</Url><Width>180</Width><Height>144</Height><Bytes>7725</Bytes><Caption>Main</Caption><ThumbnailUrl>/RXLImages/1024/18/9/189Mainthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2158</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1024/18/9/189pool-side.jpg</Url><Width>180</Width><Height>144</Height><Bytes>6561</Bytes><Caption>pool-side</Caption><ThumbnailUrl>/RXLImages/1024/18/9/189pool-sidethumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2089</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/18/9/189reception.jpg</Url><Width>180</Width><Height>144</Height><Bytes>5770</Bytes><Caption>reception</Caption><ThumbnailUrl>/RXLImages/1024/18/9/189receptionthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1976</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Photo><Url>/RXLImages/1024/18/9/189pool.jpg</Url><Width>180</Width><Height>144</Height><Bytes>5397</Bytes><Caption>pool</Caption><ThumbnailUrl>/RXLImages/1024/18/9/189poolthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1916</ThumbnailBytes><PhotoType>SwimmingPool</PhotoType></Photo><Photo><Url>/RXLImages/1024/18/9/189restaurant.jpg</Url><Width>180</Width><Height>144</Height><Bytes>7118</Bytes><Caption>restaurant</Caption><ThumbnailUrl>/RXLImages/1024/18/9/189restaurantthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2361</ThumbnailBytes><PhotoType>LobbyRestaurantAndBar</PhotoType></Photo><Photo><Url>/RXLImages/1024/18/9/189room.jpg</Url><Width>180</Width><Height>144</Height><Bytes>5337</Bytes><Caption>room</Caption><ThumbnailUrl>/RXLImages/1024/18/9/189roomthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1938</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1024/18/9/189xml.jpg</Url><Width>180</Width><Height>144</Height><Bytes>7725</Bytes><Caption>xml</Caption><ThumbnailUrl>/RXLImages/1024/18/9/189xmlthumb.jpg</ThumbnailUrl><ThumbnailWidth>87</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2158</ThumbnailBytes><PhotoType>OtherPhotos</PhotoType></Photo><Description><Language>en</Language><Type>General</Type><Text>El Duque is located in the attractive Costa Adeje, next to a shopping center with bars &amp; restaurants and 10 minutes walk from the beaches of Fañabe &amp; El Duque. Built in Renaissance style and recently renovated, the hotel offers spacious rooms and a number of entertainment and leisure activities for the whole family, including an international entertainment programme,kids club, three swimming pools with one heated in winter and a restaurant offering various theme nights. Although not part of the hotels facilities, guests can enjoy the adjoining gym, sauna and squash court at a supplement. El Duque is approximately 28 km from Reina Sofia Airport.
+ 
+'
+'&lt;b&gt;All Inclusive Description - &lt;/b&gt;'
+'STANDARD'
+'MEALS
+Breakfast Buffet (07:00-10:00) 
+ Lunch in the Snack Bar (13:00-15:00) 
+ Dinner Buffet (18:30-21:30 winter; 19:00-22:00 summer) 
+
+ Teatime with coffee, tea cakes and/or pastries (16:00-17:00) 
+
+DRINKS
+Drinks(11:00- 23:00)
+
+AI finishes on 12pm on departure day.
+
+'
+'&lt;b&gt;All Inclusive Consists of &lt;/b&gt;'
+'Afternoon Tea'
+'AI Bracelet'
+'Animation'
+'Beer Served During Meals'
+'Coffee'
+'Kids Club'
+'Local Alcoholic drinks'
+'Local Beer'
+'Local Wine'
+'Local Wine Served During Meals'
+'Mineral Water Served During Meals'
+'Soft Drinks'
+'Soft Drinks Served During Meals'
+'Table Tennis'
+'Tea'
+'Towels For The Swimming Pool'
+'</Text></Description><Description><Language>en</Language><Type>PoliciesDisclaimers</Type><Text>One of the swimming pools is heated during the winter months only</Text></Description><Amenity><Code>Sauna</Code><Text>Sauna</Text></Amenity><Amenity><Code>HandicapAccessible</Code><Text>Handicap accessible</Text></Amenity><Amenity><Code>OutdoorPool</Code><Text>Outdoor swimming pool</Text></Amenity><Amenity><Code>Kitchen</Code><Text>Kitchen</Text></Amenity><Amenity><Code>MoneyExchange</Code><Text>Money exchange</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Reception24hr</Code><Text>24hr. Reception</Text></Amenity><Amenity><Code>ConferenceRoom</Code><Text>Conference Room</Text></Amenity><Amenity><Code>GameRoom</Code><Text>GameRoom</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Amenity><Code>MiniClub</Code><Text>Mini Club</Text></Amenity><Amenity><Code>Playground</Code><Text>Playground</Text></Amenity><Amenity><Code>NumberOfPool</Code><Text>Number Of Pool</Text></Amenity><Amenity><Code>FreshWaterPool</Code><Text>Fresh Water Pool</Text></Amenity><Amenity><Code>HeatedPool</Code><Text>Heated Pool</Text></Amenity><Amenity><Code>ChildrenPool</Code><Text>Children's pool</Text></Amenity><Amenity><Code>SunBathingTerrace</Code><Text>Sun Bathing Terrace</Text></Amenity><Amenity><Code>Massage</Code><Text>Massage</Text></Amenity><Amenity><Code>Gym</Code><Text>Fitness room / Gym</Text></Amenity><Amenity><Code>SatelliteTV</Code><Text>Satellite TV</Text></Amenity><Amenity><Code>Balcony</Code><Text>Balcony</Text></Amenity><Amenity><Code>TelephoneInRoom</Code><Text>Direct Dial Telephone</Text></Amenity><Amenity><Code>RoomTerraceBalcony</Code><Text>Terrace or balcony</Text></Amenity><Amenity><Code>BathRoom</Code><Text>Bath Room</Text></Amenity><Amenity><Code>Restaurants</Code><Text>Restaurants</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

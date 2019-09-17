@@ -1,0 +1,80 @@
+<?xml version="1.0"?><HotelElement><Id>10829175</Id><Name>Hotel California</Name><Region><Id>52890</Id><Name>Kings Cross &amp; Camden</Name><CityId>52612</CityId></Region><Type>Hotel</Type><Address><Address1>4-8 Belgrave Street</Address1><Address2 /><Address3 /><City>London</City><State /><Zip>WC1 HAB</Zip><Country>United Kingdom</Country><Tel>+44 207 837 7629</Tel><Fax>011-44-207-278-5836</Fax><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Hotel-Interior-3.jpg</Url><Width>337</Width><Height>452</Height><Bytes>29251</Bytes><Caption>2631759-Hotel-California-Hotel-Interior-3</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Hotel-Interior-3.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1773</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-1.jpg</Url><Width>480</Width><Height>358</Height><Bytes>20020</Bytes><Caption>2631759-Hotel-California-Guest-Room-1</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-1.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1801</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-1_thumb.jpg</Url><Width>120</Width><Height>90</Height><Bytes>2781</Bytes><Caption>2631759-Hotel-California-Guest-Room-1_thumb</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-1_thumb.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1871</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-10.jpg</Url><Width>358</Width><Height>480</Height><Bytes>18486</Bytes><Caption>2631759-Hotel-California-Guest-Room-10</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-10.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1255</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-11.jpg</Url><Width>358</Width><Height>480</Height><Bytes>24658</Bytes><Caption>2631759-Hotel-California-Guest-Room-11</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-11.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1522</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-12.jpg</Url><Width>358</Width><Height>480</Height><Bytes>19022</Bytes><Caption>2631759-Hotel-California-Guest-Room-12</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-12.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1304</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-13.jpg</Url><Width>358</Width><Height>480</Height><Bytes>20548</Bytes><Caption>2631759-Hotel-California-Guest-Room-13</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-13.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1391</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-14.jpg</Url><Width>480</Width><Height>358</Height><Bytes>16913</Bytes><Caption>2631759-Hotel-California-Guest-Room-14</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-14.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1740</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-15.jpg</Url><Width>480</Width><Height>358</Height><Bytes>17762</Bytes><Caption>2631759-Hotel-California-Guest-Room-15</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-15.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1617</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-16.jpg</Url><Width>480</Width><Height>358</Height><Bytes>19519</Bytes><Caption>2631759-Hotel-California-Guest-Room-16</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-16.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1787</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-17.jpg</Url><Width>480</Width><Height>358</Height><Bytes>21066</Bytes><Caption>2631759-Hotel-California-Guest-Room-17</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-17.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1840</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-18.jpg</Url><Width>480</Width><Height>358</Height><Bytes>16365</Bytes><Caption>2631759-Hotel-California-Guest-Room-18</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-18.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1623</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-19.jpg</Url><Width>358</Width><Height>480</Height><Bytes>24743</Bytes><Caption>2631759-Hotel-California-Guest-Room-19</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-19.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1482</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-2.jpg</Url><Width>337</Width><Height>452</Height><Bytes>18200</Bytes><Caption>2631759-Hotel-California-Guest-Room-2</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-2.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1493</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-20.jpg</Url><Width>480</Width><Height>358</Height><Bytes>20281</Bytes><Caption>2631759-Hotel-California-Guest-Room-20</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-20.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1692</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-4.jpg</Url><Width>337</Width><Height>452</Height><Bytes>17189</Bytes><Caption>2631759-Hotel-California-Guest-Room-4</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-4.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1521</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-5.jpg</Url><Width>358</Width><Height>480</Height><Bytes>20326</Bytes><Caption>2631759-Hotel-California-Guest-Room-5</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-5.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1443</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-6.jpg</Url><Width>480</Width><Height>358</Height><Bytes>21708</Bytes><Caption>2631759-Hotel-California-Guest-Room-6</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-6.jpg</ThumbnailUrl><ThumbnailWidth>93</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2060</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-8.jpg</Url><Width>358</Width><Height>480</Height><Bytes>17618</Bytes><Caption>2631759-Hotel-California-Guest-Room-8</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-8.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1314</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-9.jpg</Url><Width>358</Width><Height>480</Height><Bytes>21904</Bytes><Caption>2631759-Hotel-California-Guest-Room-9</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-Guest-Room-9.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1520</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-in-Room-Amenity-7.jpg</Url><Width>337</Width><Height>452</Height><Bytes>18259</Bytes><Caption>2631759-Hotel-California-in-Room-Amenity-7</Caption><ThumbnailUrl>/RXLImages/1116/10/51/21/1/2631759-Hotel-California-in-Room-Amenity-7.jpg</ThumbnailUrl><ThumbnailWidth>52</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1493</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Description><Language>en</Language><Type>General</Type><Text>The Hotel California London is an excellent bed and breakfast hotel well-situated in the heart of London near the Kings Cross and St Pancras Stations. This lovely Hotel in London is located close to famous attractions such as the British Library, the British Museum and the Madame Tussauds Museum.
+
+For travellers who want to discover the wonderful city of London the Hotel California London is the perfect London accommodation for an unforgettable stay.
+
+The Hotel California does not have a lift/elevator.</Text></Description><Description><Language>en</Language><Type>SurroundingArea</Type><Text>The Hotel California London is situated near the Kings Cross, the St Pancras and the Euston tube stations and is only a 2 minute walk away from the London St Pancras International train station which provides a direct access to the amazing city of London. Guests of the Hotel California London have therefore an easy access to all main and well worth seeing sights in London such as the Buckingham Palace, the Big Ben and the Tower of London.</Text></Description><Description><Language>en</Language><Type>RoomTypes</Type><Text>Triple Room - Double bed/Single bed - - Double standard bed and one single standard bed
+- En-suite Bathroom (bathtub or shower room)
+- Breakfast included
+- Wireless internet access
+- Hair dryer
+- Tea and coffee making facilities
+- Television
+- Safe box
+- Wooden/parquet floor
+Baby cots are on request basis only.
+
+Family Room - - Double standard bed and two single standard bed
+- En-suite Bathroom (bathtub or shower room)
+- Breakfast included
+- Wireless internet access
+- Hair dryer
+- Tea and coffee making facilities
+- Television
+- Safe box
+- Wooden/parquet floor
+Baby cots are on request basis only.
+
+Large Family Room - - Double standard bed and four single standard bed
+- En-suite Bathroom (bathtub or shower room)
+- Breakfast included
+- Wireless internet access
+- Hair dryer
+- Tea and coffee making facilities
+- Television
+- Safe box
+- Wooden/parquet floor
+Baby cots are on request basis only.
+
+Single Room - - Single standard bed
+- En-suite Bathroom (bathtub or shower room)
+- Breakfast included
+- Wireless internet access
+- Hair dryer
+- Tea and coffee making facilities
+- Television
+- Safe box
+- Wooden/parquet floor
+Baby cots are on request basis only.
+
+Double Room - - Double standard bed
+- En-suite Bathroom (bathtub or shower room)
+- Breakfast included
+- Wireless internet access
+- Hair dryer
+- Tea and coffee making facilities
+- Television
+- Safe box
+- Wooden/parquet floor
+Baby cots are on request basis only.
+
+Twin Room - - Two single standard beds
+- En-suite Bathroom (bathtub or shower room)
+- Breakfast included
+- Wireless internet access
+- Hair dryer
+- Tea and coffee making facilities
+- Television
+- Safe box
+- Wooden/parquet floor
+Baby cots are on request basis only.
+
+Triple Room - - Three single standard beds
+- En-suite Bathroom (bathtub or shower room)
+- Breakfast included
+- Wireless internet access
+- Hair dryer
+- Tea and coffee making facilities
+- Television
+- Safe box
+- Wooden/parquet floor
+Baby cots are on request basis only.</Text></Description><Amenity><Code>NonSmokingRoom</Code><Text>Non smoking rooms</Text></Amenity><Amenity><Code>Safe</Code><Text>Safe</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?><HotelElement><Id>10477019</Id><Name>Me.be.</Name><Region><Id>21031</Id><Name>Rimini</Name><CityId>17146</CityId></Region><Type>Hotel</Type><Address><Address1>Viale Latina, 15</Address1><Address2 /><Address3 /><City /><State /><Zip>47924</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Hotel Me.be. is situated in Miramare di Rimini just a few steps from the beach.
+
+Restaurant
+Air conditioned restaurant.  
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Last refurbishment: 2005.
+
+Breakfast: Sweet and salty buffet.
+Lunch/Dinner: 2 menus served on buffet, fruit or desert. 
+
+Check In: from 12:00 (midday).
+Check out: within 10:00.</Text></Description><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Amenity><Code>InternetAccess</Code><Text>InternetAccess</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

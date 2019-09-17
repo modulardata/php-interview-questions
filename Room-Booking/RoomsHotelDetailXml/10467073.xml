@@ -1,0 +1,14 @@
+<?xml version="1.0"?><HotelElement><Id>10467073</Id><Name>Italia</Name><Region><Id>17126</Id><Name>Orvieto</Name><CityId>17126</CityId></Region><Type>Hotel</Type><Address><Address1>Via Di Piazza Del Popolo, 13</Address1><Address2 /><Address3 /><City /><State /><Zip>05018</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>4</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The GRAND HOTEL ITALIA is located in the historic centre of Orvieto, next to the suggestive “Palazzo del Capitano del Popolo”, now Convention centre, to the Cathedral and to the most important monuments of the medieval city.
+
+Restaurant
+Breakfast buffet.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+We accept small dogs.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>AirConditioning</Code><Text>Air conditioning</Text></Amenity><Amenity><Code>RoomService</Code><Text>Room service</Text></Amenity><Amenity><Code>CarRentDesk</Code><Text>Car rental desk</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>LaundryService</Code><Text>Laundry service</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>InternetAccess</Code><Text>InternetAccess</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>40</Score><Description>Four star</Description></Rating><Rank>1</Rank></HotelElement>

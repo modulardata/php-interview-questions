@@ -1,0 +1,14 @@
+<?xml version="1.0"?><HotelElement><Id>10452722</Id><Name>Cristallo</Name><Region><Id>20933</Id><Name>Canazei</Name><CityId>17084</CityId></Region><Type>Hotel</Type><Address><Address1>Via Dolomiti, 24</Address1><Address2 /><Address3 /><City /><State /><Zip>38032</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Situated in a very convenient and central position, next to the winter skibus stop, near the Fondo Ski Center [cross-country skiing], and six hundred meters from the start of the Sellaronda and Giro dei 4 Passi cableway, our hotel in Canazei is the ideal starting point for hikers, skiers and mountain lovers alike.
+
+Restaurant
+A relaxing bar area with an adjacent stube room [stove parlour], a large lounge and a modern chill-out room with a big screen. It also has two well-lit and well-finished restaurant halls.
+
+Outside
+
+
+Lobby
+
+
+More Informations
+A ski and bicycle store room, a private car park and a limited number of covered parking spaces.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

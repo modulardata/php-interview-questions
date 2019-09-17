@@ -1,0 +1,56 @@
+<?xml version="1.0"?><HotelElement><Id>10832871</Id><Name>Safestay</Name><Region><Id>52923</Id><Name>Southbank</Name><CityId>52612</CityId></Region><Type>Hotel</Type><Address><Address1>144 - 152 Walworth Road</Address1><Address2 /><Address3 /><City>London</City><State /><Zip>SE17 1JL</Zip><Country>United Kingdom</Country><Tel>+44 207 703 8000</Tel><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Photo><Url>/RXLImages/1116/10/62/77/1/ROOM0-20130109-085023-254.jpg</Url><Width>448</Width><Height>302</Height><Bytes>20489</Bytes><Caption>ROOM0-20130109-085023-254</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/ROOM0-20130109-085023-254.jpg</ThumbnailUrl><ThumbnailWidth>103</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2409</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/ROOM1-20130109-085513-667.jpg</Url><Width>300</Width><Height>451</Height><Bytes>15664</Bytes><Caption>ROOM1-20130109-085513-667</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/ROOM1-20130109-085513-667.jpg</ThumbnailUrl><ThumbnailWidth>46</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1352</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/ROOM2-20130109-085513-673.jpg</Url><Width>300</Width><Height>485</Height><Bytes>21302</Bytes><Caption>ROOM2-20130109-085513-673</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/ROOM2-20130109-085513-673.jpg</ThumbnailUrl><ThumbnailWidth>43</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1287</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/ROOM3-20130109-085513-677.jpg</Url><Width>300</Width><Height>424</Height><Bytes>11633</Bytes><Caption>ROOM3-20130109-085513-677</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/ROOM3-20130109-085513-677.jpg</ThumbnailUrl><ThumbnailWidth>49</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1052</ThumbnailBytes><PhotoType>ViewOfAGuestRoom</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/AMEN2-20130109-085513-700.jpg</Url><Width>451</Width><Height>300</Height><Bytes>20621</Bytes><Caption>AMEN2-20130109-085513-700</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/AMEN2-20130109-085513-700.jpg</ThumbnailUrl><ThumbnailWidth>105</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2242</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/AMEN3-20130109-085513-705.jpg</Url><Width>451</Width><Height>300</Height><Bytes>21203</Bytes><Caption>AMEN3-20130109-085513-705</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/AMEN3-20130109-085513-705.jpg</ThumbnailUrl><ThumbnailWidth>105</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2331</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/LOGO0-20130109-085023-259.jpg</Url><Width>48</Width><Height>40</Height><Bytes>964</Bytes><Caption>LOGO0-20130109-085023-259</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/LOGO0-20130109-085023-259.jpg</ThumbnailUrl><ThumbnailWidth>84</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1179</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/PROP0-20130109-085023-238.jpg</Url><Width>451</Width><Height>300</Height><Bytes>33681</Bytes><Caption>PROP0-20130109-085023-238</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/PROP0-20130109-085023-238.jpg</ThumbnailUrl><ThumbnailWidth>105</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2784</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/REST0-20130109-085513-680.jpg</Url><Width>451</Width><Height>300</Height><Bytes>21468</Bytes><Caption>REST0-20130109-085513-680</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/REST0-20130109-085513-680.jpg</ThumbnailUrl><ThumbnailWidth>105</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2306</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/REST1-20130109-085513-684.jpg</Url><Width>451</Width><Height>300</Height><Bytes>16532</Bytes><Caption>REST1-20130109-085513-684</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/REST1-20130109-085513-684.jpg</ThumbnailUrl><ThumbnailWidth>105</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2201</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/REST2-20130109-085513-688.jpg</Url><Width>451</Width><Height>300</Height><Bytes>16252</Bytes><Caption>REST2-20130109-085513-688</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/REST2-20130109-085513-688.jpg</ThumbnailUrl><ThumbnailWidth>105</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2149</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/AMEN0-20130109-085513-691.jpg</Url><Width>451</Width><Height>300</Height><Bytes>27983</Bytes><Caption>AMEN0-20130109-085513-691</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/AMEN0-20130109-085513-691.jpg</ThumbnailUrl><ThumbnailWidth>105</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>2695</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Photo><Url>/RXLImages/1116/10/62/77/1/AMEN1-20130109-085513-697.jpg</Url><Width>300</Width><Height>451</Height><Bytes>25369</Bytes><Caption>AMEN1-20130109-085513-697</Caption><ThumbnailUrl>/RXLImages/1116/10/62/77/1/AMEN1-20130109-085513-697.jpg</ThumbnailUrl><ThumbnailWidth>46</ThumbnailWidth><ThumbnailHeight>70</ThumbnailHeight><ThumbnailBytes>1469</ThumbnailBytes><PhotoType>ExternalViewOfTheHotel</PhotoType></Photo><Description><Language>en</Language><Type>General</Type><Text>Safestay at Elephant &amp; Castle is ideal if youre looking for great value accommodation in London. Whether you are seeing the sights in this amazing city or travelling with your family. 
+
+We are close to all the big London tourist attractions, so if youre new in town, just ask our team and theyll happily help you plan your visit and give you top tips on whats happening in London during your stay.
+
+Our beautiful 18th century Georgian building is just south of Londons River Thames  with plenty of cool bars, museums and cafes a stones throw away. Its secure, stylish, comfortable and funky, with a great heated and illuminated garden for you to relax in. 
+
+So if youre after budget accommodation in London, bringing a group of school children to study the sights or simply want something different from the usual options in London why not try this fantastic all-bunk bed hostel out for size.</Text></Description><Description><Language>en</Language><Type>SurroundingArea</Type><Text>Safestay at Elephant &amp; Castle is in Southwark, two minutes walk from Elephant &amp; Castle underground station, just south of Londons River Thames and in one of the oldest parts of the city. Charles Dickens, Charlie Chaplin and even William Shakespeare all lived nearby once upon a time. Now close to The Shard, one of Western Europes tallest building.&lt;br /&gt; &lt;br /&gt;Safestay at Elephant &amp; Castle is an ideal choice if youre looking for a hostel in London, budget accommodation for the Olympic Games, or just a fantastic short break in London that won't break the bank. Were also really close to the main London tourist attractions, like London Bridge and Borough Market.</Text></Description><Description><Language>en</Language><Type>RoomTypes</Type><Text>4,6 &amp; 8 Bunk Bedded Dorms - Hostel facilities include:
+
+ Free continental breakfast
+ Free wi-fi in the lobby
+ 24-hour reception
+ Bar
+ 
+Iron/ironing board (on request)
+ Hairdryer for rent
+ Internet room
+ Library
+ 
+Chill out room
+ Pool room
+ Breakfast room
+ Large illuminated and heated garden
+
+Twin Bunk Private Room - Hostel facilities include:
+
+ Free continental breakfast
+ Free wi-fi in the lobby
+ 24-hour reception
+ Bar
+ 
+Iron/ironing board (on request)
+ Hairdryer for rent
+ Internet room
+ Library
+ 
+Chill out room
+ Pool room
+ Breakfast room
+ Large illuminated and heated garden
+
+Single/Double Bunk Private Room - Hostel facilities include:
+
+ Free continental breakfast
+ Free wi-fi in the lobby
+ 24-hour reception
+ Bar
+ 
+Iron/ironing board (on request)
+ Hairdryer for rent
+ Internet room
+ Library
+ 
+Chill out room
+ Pool room
+ Breakfast room
+ Large illuminated and heated garden</Text></Description><Amenity><Code>NonSmokingRoom</Code><Text>Non smoking rooms</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>GameRoom</Code><Text>GameRoom</Text></Amenity><Amenity><Code>WheelchairService</Code><Text>Wheelchair Service</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>Elevators</Code><Text>Elevators</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

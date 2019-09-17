@@ -1,0 +1,27 @@
+<?xml version="1.0"?><HotelElement><Id>10452706</Id><Name>Aquila</Name><Region><Id>20932</Id><Name>Cortina d'Ampezzo</Name><CityId>17084</CityId></Region><Type>Hotel</Type><Address><Address1>P.zza F.ll Ghedina, 1</Address1><Address2 /><Address3 /><City /><State /><Zip>32043</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Hotel Aquila is located in the heart of Cortina d'Ampezzo, along the main street, closed to traffic with private parking.
+
+Restaurant
+Buffet Breakfast
+
+Outside
+
+
+Lobby
+
+
+More Informations
+Check-in time: from 14:30
+Check-out time: before 11:00 am
+
+
+Additional Services:
+-bar,
+-TV-room,
+-wi-fi,
+-lift,
+-Ski Storage,
+-heated ski boot with wardrobe,
+-pool,
+-massage room,
+-Private parking and garage.</Text></Description><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

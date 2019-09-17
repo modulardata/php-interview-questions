@@ -1,0 +1,15 @@
+<?xml version="1.0"?><HotelElement><Id>10436630</Id><Name>Stelvio</Name><Region><Id>5031923</Id><Name>Bormio</Name><CityId>5031923</CityId></Region><Type>Hotel</Type><Address><Address1>Via Della Vittoria, 36</Address1><Address2 /><Address3 /><City /><State /><Zip>23032</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Situated in a picturesque corner in the centre of Bormio and in the immediate proximity of the Therms.
+
+Restaurant
+Bar.
+
+Outside
+
+
+Lobby
+The hotel is well refined, with large living rooms, TV room and bar.
+
+More Informations
+Guests are provided with free shuttle bus to/from the ski slopes.
+The hotel is affiliated to Bagni di Bormio spa Resort thermal services.</Text></Description><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>TVRoom</Code><Text>TV Room</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

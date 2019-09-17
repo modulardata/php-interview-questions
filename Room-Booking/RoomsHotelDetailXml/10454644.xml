@@ -1,0 +1,16 @@
+<?xml version="1.0"?><HotelElement><Id>10454644</Id><Name>Galata</Name><Region><Id>17095</Id><Name>Genoa</Name><CityId>17095</CityId></Region><Type>Hotel</Type><Address><Address1>Via Andrea Doria, 4a</Address1><Address2 /><Address3 /><City /><State /><Zip>16126</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>3</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+The Galata hotel located in the heart of the historic center of Genoa, welcomes its guests in a pleasant and intimate atmosphere, perfect for a short stay or a holiday or a business trip in all seasons.
+
+Restaurant
+
+
+Outside
+
+
+Lobby
+
+
+More Informations
+This suggests, among other things, a rooftop terrace, a library, and multilingual staff.
+
+Agreement with garage parking 200 metres from the hotel, 21 euros per day.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>InternetAccess</Code><Text>InternetAccess</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>30</Score><Description>Three star</Description></Rating><Rank>1</Rank></HotelElement>

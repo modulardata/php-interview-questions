@@ -1,0 +1,260 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+font-family:'OpenSansLight';
+src:url('../fonts/OpenSans-Light-webfont.eot');
+src:url('../fonts/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Light-webfont.woff') format('woff'), url('../fonts/OpenSans-Light-webfont.ttf') format('truetype'), url('../fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
+font-weight:normal;
+font-style:normal
+}
+@font-face {
+font-family:'OpenSansCondensedLight';
+src:url('../fonts/OpenSans-CondLight-webfont.eot');
+src:url('../fonts/OpenSans-CondLight-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-CondLight-webfont.woff') format('woff'), url('../fonts/OpenSans-CondLight-webfont.ttf') format('truetype'), url('../fonts/OpenSans-CondLight-webfont.svg#OpenSansCondensedLight') format('svg');
+font-weight:normal;
+font-style:normal
+}
+@font-face {
+font-family:'OpenSansRegular';
+src:url('../fonts/OpenSans-Regular-webfont.eot');
+src:url('../fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Regular-webfont.woff') format('woff'), url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype'), url('../fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+font-weight:normal;
+font-style:normal
+}
+@font-face {
+font-family:'OpenSansItalic';
+src:url('../fonts/OpenSans-Italic-webfont.eot');
+src:url('../fonts/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Italic-webfont.woff') format('woff'), url('../fonts/OpenSans-Italic-webfont.ttf') format('truetype'), url('../fonts/OpenSans-Italic-webfont.svg#OpenSansItalic') format('svg');
+font-weight:normal;
+font-style:normal
+}
+@font-face {
+font-family:'OpenSansSemibold';
+src:url('../fonts/OpenSans-Semibold-webfont.eot');
+src:url('../fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Semibold-webfont.woff') format('woff'), url('../fonts/OpenSans-Semibold-webfont.ttf') format('truetype'), url('../fonts/OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
+font-weight:normal;
+font-style:normal
+}
+
+.navbar-wrapper{background:#fff;}
+.logo{ height:110px; padding:5px 0; font-size:26px;}
+.SearchSection{height:550px; width:100%; display:block; background:url(../img/search_Bg.jpg) no-repeat center;}
+.SearchSection .banner_top_text{height:155px;}
+.SearchSection .banner_title{ background:#152731; padding:15px 20px; height:50px; color:#fff;}
+.searchCntr{ height:304px; position: relative;top: -40px;}
+.searchtabs { display:block; height:auto; float:left; min-height:40px;}
+.searchtabs ul{ padding:0; list-style:none; margin-bottom:0; clear:both;}
+.searchtabs ul li{ display:block; float:left;}
+.searchtabs ul li a{ padding:10px 20px 10px 50px; display:block; text-decoration:none; cursor:pointer; background:#960858; color:#fff; border-right:#960858 solid 1px; background-image:url(../img/tab-sprite.png); background-repeat:no-repeat;}
+.searchtabs ul li a:hover{ background-color:#db7093;}
+.searchtabs ul li a.active{ background-color:#efefef; color:#333;}
+#hotels{ background-position: 8px -30px;}
+#holidays{background-position: 8px -105px;}
+#hotels.active{ background-position: 8px 5px;}
+#holidays.active{background-position: 8px -68px;}
+#room2, #room3, #room4, .htl-age{ display:none;}
+.htl-rooms span{ font-size:12px; padding-top:35px; display:block;}
+.busCntr, .hotelCntr, .flightCntr, .accountCntr{ background:#f1f1f1;}
+.hotelCntr, .flightCntr, .accountCntr{ padding:10px 0;}
+.searchContentCntr{ background:#DB7093; -moz-box-shadow:0 1px 5px rgba(34, 25, 25, 0.4);-webkit-box-shadow:0 1px 5px rgba(34, 25, 25, 0.4);
+                    box-shadow:0 1px 5px rgba(34, 25, 25, 0.4); border-top:#960858 solid 4px; float:left; display:block; width:100%; min-height:375px; color:#fff;}
+.searchContentCntr .padder{ padding:0 20px 10px;}
+.searchContentCntr h3{ margin-top:10px;}
+.searchpanel{min-height:268px;}
+.banner_add{height:280px;}
+.banner_add img{ height:100%;}
+.searchBtncntr{ background:#fff;}
+.searchBtncntr .padder{ padding:8px 20px;}
+.searchBtncntr span{color:#333; padding:6px 0; display:inline-block;}
+
+.topDestination{ background:#f2f2f2; width:100%; border-bottom:#ccc solid 1px; padding-top:50px;}
+.topDestinationScrollCntr{ border-top:#ccc solid 1px; padding-top:30px;}
+.featuredContentScrollCntr{ border-top:#ccc solid 1px; padding-top:15px;}
+.topDestination h3, .featuredContent .col-lg-8 h3{ border-bottom:#ccc solid 1px; margin:2px 0; text-align:center; min-height:14px;}
+.featuredContent .col-lg-8 h3{ text-align:left; margin-top:s15px;}
+.featuredContent .col-lg-8 h3 a{ font-size:14px; margin-top:5px;}
+.topDestination h3 span{ position:relative; background:#f2f2f2; padding:0 10px; top:14px;}
+.featuredContent{ padding:10px 0 30px 0;}
+.featuredBrdBox{ border:#ddd solid 1px; padding:5px; height:190px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px;}
+.featuredBrdBox h5{ margin-bottom:3px;}
+.featuredBrdBox p{ line-height:20px; font-size:13px;}
+.featuredBrdBox .scrollCntr{ display:block; overflow:auto; max-height:180px;}
+#ascrail2000, #ascrail2000-hr{ background:#eee; opacity:1 !important; padding:0 1px; width:inherit !important;}
+#ascrail2000 div, #ascrail2000-hr div{ background:#999 !important; border:none !important;}
+.featuredBrdBox img{ float:left; margin-right:8px;}
+.featuredBrdBox .col-md-12{ margin-bottom:20px;}
+.featuredBrdBox .services{ padding:8px 0; display:block; float:left; width:100%;}
+.featuredBrdBox .services .col-md-6{ padding-left:2px; }
+.featuredBrdBox .services .col-md-6 h5{font-size:12px;}
+
+
+/*dashboard*/
+.dashboard-nav{ list-style:none; line-height:32px; font-size:16px; margin:0; padding:0;}
+.dashboard-nav li a{ border-bottom:#e1e1e1 dashed 1px; padding:5px; display:block; text-decoration:none; color:#333;}
+.dashboard-nav li a:hover{ color:#000; background:#f1f1f1;}
+.dashboard-nav li i{ width:20px; margin:0 5px; font-size:18px; color:#F5696C;}
+.dashboard-nav li a.active{background:#db7093; color:#fff;}
+.dashboard-nav li a.active i{color:#fff;}
+
+.greyBox{ background:#f1f1f1; padding:15px 8px;}
+.user-detls{ margin-left:150px; display:block;}
+.prof-pic{ width:120px; display:inline-block; position:absolute; top:15px;}
+
+.hotelSearchFilter, .htlResultRow, .search-criteria, .white-container{ background:#fff; border:#e2e2e2 solid 1px; display:block; min-height:50px; padding:8px; margin-bottom:5px;}
+.accountCntr h1{ font-size:50px; text-align:center;}
+.accountCntr .white-container .col-md-12{ border-bottom:#ccc dashed 1px; padding-bottom:10px;}
+.accountCntr .white-container{ padding:15px;} 
+.dashboard-offer img{ width:100%;}
+.dashboard-offer span{display:block; text-align:center; padding-top:10px;}
+
+
+/* NAV SECTION */
+.userNav ul, .nav ul{ list-style:none; padding:0; margin:15px 0 0 0; float:right; width:auto;}
+.nav ul li, .userNav ul li{ display:inline-block;}
+.nav ul li a, .userNav ul li a{ display:block; padding:0px 24px; border-left:#eee solid 1px; font-size:13px; outline:none; text-decoration:none; color:#000;}
+.nav ul li a:hover, .userNav ul li a:hover, .nav ul li a.active, .userNav ul li a.active{ color:#960858;}
+.userNav ul li a{ font-size:12px; border-left:#eee solid 1px;}
+.nav ul li:first-child a, .userNav ul li:first-child a{border:none;}
+.userNav ul{ margin:0;}
+
+.topsearchSection{ margin:8px 0;}
+
+/*form controls */
+.form-control{height:40px; padding:10px 12px;}
+.form-group .btn, .input-group-btn .btn{padding:9px 12px !important;}
+#dpd1, #dpd2, #dphd{ background: #fff url(../img/calendar.png) 98% center no-repeat;}
+.duration label{ margin-right:15px; font-size:18px; font-weight:normal;}
+.duration label input{margin-right:5px;}
+
+
+/* FOOTER SECTIO GOES HERE */
+footer{ background:#DB7093; padding:10px 0;}
+footer h5{ font-weight:bold; color:#fff;}
+footer ul{ margin:0; line-height:26px; font-size:12px; padding:8px 0 0 0; list-style:none; border-top:#fff solid 1px; color:#fff;}
+
+
+/* jCarousel*/
+.jcarousel-skin-tango .jcarousel-container {
+	margin-bottom:30px;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl {
+	direction: rtl;
+}
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    padding: 0px;
+}
+
+
+.jcarousel-skin-tango .jcarousel-clip {
+    overflow: hidden;
+}
+
+.jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin-left: 0;
+    margin-right: 40px;
+	margin-bottom:5px;
+	-moz-box-shadow:0 1px 5px rgba(34, 25, 25, 0.2);
+	-webkit-box-shadow:0 1px 5px rgba(34, 25, 25, 0.2);
+	box-shadow:0 1px 5px rgba(34, 25, 25, 0.2);
+}
+
+#mycarousel2 li{ margin-right:56px;}
+
+.jcarousel-item-horizontal span{ background:#fff; padding: 5px 10px; display:block;}
+.jcarousel-item-horizontal span h5{ margin-bottom:0;}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin-left: 10px;
+    margin-right: 0;
+}
+
+.jcarousel-skin-tango .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    position: absolute;
+    top: 40%;
+	margin-top:-21px;
+    right: 2px;
+    width: 25px;
+    height: 42px;
+    cursor: pointer;
+    background: #000 url(../img/rightArrow.png) no-repeat center;
+}
+
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-next-horizontal:focus {
+    opacity:0.7;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:active {
+    opacity:0.7;
+}
+
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:focus,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:active {
+    cursor: default;
+	opacity:0.5;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 40%;
+	margin-top:-21px;
+    left: 0px;
+    width: 25px;
+    height: 42px;
+    cursor: pointer;
+    background: #000 url(../img/leftArrow.png) no-repeat center;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-prev-horizontal {
+    left: auto;
+    right: 0px;
+    background: #000 url(../img/leftArrow.png) no-repeat center;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:hover, 
+.jcarousel-skin-tango .jcarousel-prev-horizontal:focus {
+    opacity:0.7;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:active {
+    opacity:0.7;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:focus,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:active {
+    cursor: default;
+    opacity:0.5;
+}
+
+.verySoftShadow {
+	-moz-box-shadow:0 2px 4px rgba(0, 0, 0, 0.15);
+	-webkit-box-shadow:0 2px 4px rgba(0, 0, 0, 0.15);
+	box-shadow:0 2px 4px rgba(0, 0, 0, 0.15)
+}
+.softShadow {
+	-moz-box-shadow:0 1px 1px rgba(34, 25, 25, 0.3);
+	-webkit-box-shadow:0 1px 1px rgba(34, 25, 25, 0.3);
+	box-shadow:0 1px 1px rgba(34, 25, 25, 0.3)
+}
+
+.hardShadow {
+	-moz-box-shadow:0 1px 3px #929292;
+	-webkit-box-shadow:0 1px 3px #929292;
+	box-shadow:0 1px 3px #929292
+}

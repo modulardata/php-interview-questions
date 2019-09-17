@@ -1,0 +1,8 @@
+<?xml version="1.0"?><HotelElement><Id>10455168</Id><Name>Rialto</Name><Region><Id>5032213</Id><Name>Grado</Name><CityId>5032213</CityId></Region><Type>Hotel</Type><Address><Address1>Viale Del Turismo, 2</Address1><Address2 /><Address3 /><City>Gorizia</City><State /><Zip>34073</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>4</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Built with the following modern principles from an architectural and functional point of view, equipped with all the comforts. Hotel Rialto offers different kind of Holidays and an ideal costruction for everybody. It is located in “garden city” a few steps further from the sandy beach and from the “Roses Park”, and a few minutes from the pedastrian zone, from the historical roman centre and from the little fishing harbour.
+
+Restaurant
+Hotel Rialto suggests an exellent cuisine, with national and international dishes also from the characteristic and typical gastronomy. By request vegetarian and dietetic kitchen. Rich breakfastbuffet and for lunch and dinner hors-d’oeuvre and salad buffet.
+
+More Informations
+There is privat parking, wide elevators, equipped panoramic solarium with view on the nearest beach and lagoon.</Text></Description><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Rating><System>Stars</System><Score>40</Score><Description>Four star</Description></Rating><Rank>1</Rank></HotelElement>

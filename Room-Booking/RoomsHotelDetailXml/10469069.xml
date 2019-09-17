@@ -1,0 +1,8 @@
+<?xml version="1.0"?><HotelElement><Id>10469069</Id><Name>City Parma</Name><Region><Id>21016</Id><Name>Parma</Name><CityId>17129</CityId></Region><Type>Hotel</Type><Address><Address1>Strada Cornocchio, 55</Address1><Address2 /><Address3 /><City>Parma</City><State /><Zip>43126</Zip><Country>Italy</Country><Tel /><Fax /><Email /><Url /></Address><Stars>4</Stars><GeneralInfo /><Description><Language>en</Language><Type>General</Type><Text>Position
+Hotel City Parma Hotel is located about 4 km from the center of Parma, 500 meters from the city airport. The hotel is surrounded by greenery, in a quiet area but well connected to the main roads.
+
+Restaurant
+A welcoming environment, especially, intimate, where you can enjoy quality cuisine, with the use of raw materials. In summer you can dine outside on the terrace of the restaurant, in the park.
+
+More Informations
+Check-In from 14:00.</Text></Description><Amenity><Code>InHouseBar</Code><Text>Hotel bar</Text></Amenity><Amenity><Code>PetsAllowed</Code><Text>Pets allowed</Text></Amenity><Amenity><Code>MeetingRooms</Code><Text>Meeting rooms</Text></Amenity><Amenity><Code>AirConditioning</Code><Text>Air conditioning</Text></Amenity><Amenity><Code>RoomService</Code><Text>Room service</Text></Amenity><Amenity><Code>Bar</Code><Text>Bar</Text></Amenity><Amenity><Code>Restaurant</Code><Text>Restaurant</Text></Amenity><Amenity><Code>LaundryService</Code><Text>Laundry service</Text></Amenity><Amenity><Code>Lift</Code><Text>Lift</Text></Amenity><Amenity><Code>WiFi</Code><Text>Wi-Fi</Text></Amenity><Amenity><Code>MultilingualStaff</Code><Text>Multilingual Staff</Text></Amenity><Rating><System>Stars</System><Score>40</Score><Description>Four star</Description></Rating><Rank>1</Rank></HotelElement>
