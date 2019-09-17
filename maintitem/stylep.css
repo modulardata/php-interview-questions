@@ -1,0 +1,45 @@
+body { color: black; background: white; font-family: "Times New Roman", Times, serif; font-size: small; font-weight: normal; padding: 0 0 5pt; margin: 0; }
+
+h1 { margin-left: 20pt; margin-top: 0; margin-bottom: 0; font-size: 115%; font-family: "Times New Roman", Times, serif; text-transform: uppercase; font-weight: bold;}
+h2 { margin-left: 20pt; margin-top: 0.5em; margin-bottom: 0; font-size: 90%; font-family: "Times New Roman", Times, serif; text-transform: uppercase; font-weight: bold;}
+
+h1.head { margin-left: 0; margin-top: 0; margin-bottom: 0; font-size: 100%; text-transform: uppercase; font-weight: bold;}
+
+a:hover { color: red }
+a:active { color: maroon }
+
+a.navlink:hover { color: red; background: white; }
+a.navlink:active { color: maroon; background: #ffc; }
+a.current { color: black; background: yellow; }
+
+p  { margin-left: 20pt; margin-right: 10pt; margin-top: 0.5em; margin-bottom: 0.5em; }
+
+p.small { font-size: 80%; }
+p.small a:hover { color: red }
+p.small a:active { color: maroon }
+
+form { margin-left: 10pt; }
+
+table { margin-left: 5pt; border: 0 none; }
+table.entry { margin-left: 5pt; border: 0 none; text-align: left; } 
+
+tr { font-family: "Times New Roman", Times, serif; } 
+
+tr.heading { font-family: "Times New Roman", Times, serif; background-color: #EFE0F0; font-weight: bold; }
+
+td.w2 { width: 100pt; }
+
+ul {margin-left: 10pt; margin-top: 0; margin-bottom: 0; }
+ul.left { margin-left: 0; margin-top: 0; margin-bottom: 0; }
+
+li {list-style-type: circle}
+
+.right { display: none; }
+
+div.item ul li { margin-left: 15pt}
+
+img { border: 0; }           /* from mySQL stylesheet */
+img.logo { margin: 13pt; }   /* from mySQL stylesheet */
+
+
+

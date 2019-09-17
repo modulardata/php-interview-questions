@@ -1,0 +1,58 @@
+body { color: black; background-color: white; font-family: Arial, Helvetica, sans-serif; font-size: 80%; font-weight: normal; margin-left: 5%; margin-right: 5%; }
+
+h1 { margin-left: 4%; margin-top: 0.5em; margin-bottom: 0; font-size: 110%; text-transform: uppercase; font-weight: bold;}
+h2 { margin-left: 4%; margin-top: 0.5em; margin-bottom: 0; font-size: 100%; text-transform: uppercase; font-weight: bold;}
+
+h1.head { margin-left: 0; margin-top: 0; margin-bottom: 0; font-size: 100%; text-transform: uppercase; font-weight: bold;}
+
+a:hover { color: red }
+a:active { color: maroon }
+
+a.navlink:hover { color: red; background: white; }
+a.navlink:active { color: maroon; background: #ffc; }
+
+p { margin-left: 1%; margin-right: 15%; margin-top: 0.5em; margin-bottom: 0.5em; }
+
+p.small { font-size: 80%; }
+p.small a:hover { color: red }
+p.small a:active { color: maroon }
+
+form { margin-left: 1%; }
+
+table { margin-left: 1%; border: 0 none; }
+
+table.entry { margin-left: 0%; margin-top: 0%; border: 0 none; text-align: left; } 
+
+table.show { margin-left: 0%; margin-top: 0%; border: 0 none; text-align: left; }
+
+tr { font-family: Verdana, sans-serif; } 
+
+tr.heading { font-family: Arial, Helvetica, sans-serif; background-color: #EFE0F0; font-weight: bold; }
+
+td.w2 { width: 150px; }
+
+ul {margin-left: 20%; margin-top: 0; margin-bottom: 0; }
+ul.left { margin-left: 0; margin-top: 0; margin-bottom: 0; }
+
+li {list-style-type: circle}
+
+.left  { background: white; color: black; float: left; border: 0 none; }
+
+.error   { width: 500px; background: white; color: red; float: left; border: 0 none; }
+
+.info  { width: 800px; background: white; color: blue; float: left; border: 0 none; }
+
+.warning { width: 500px; background: yellow; color: black; float: left; border: 0 none; }
+
+
+
+.right { background: white; color: black; float: right; width: 120px; border: 0 none; }
+
+.menubutton { background: white; color: blue; float: left; margin-left: 20px; margin-top: 0%; border: 0 none; }
+
+div.item ul li { margin-left: 15px}
+
+img { border: 0px; }         /* from mySQL stylesheet */
+img.logo { margin: 13px; }   /* from mySQL stylesheet */
+
+
