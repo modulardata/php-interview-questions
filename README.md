@@ -1,4 +1,4 @@
-## PHP Interview Questions 
+## PHP Interview Questions and Answers
 
 
 #### Q. What is an autoloader and what does it do?
