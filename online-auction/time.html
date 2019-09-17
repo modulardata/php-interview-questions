@@ -1,0 +1,26 @@
+<html>
+<head>
+<script type="text/javascript">
+function clock1()
+ {
+  
+   var d=new Date();
+   var t=d.toLocaleTimeString();
+   document.myform.txt.value=t;
+   setTimeout("clock1()",1000);
+
+
+  }
+</script>
+</head>
+
+<form name="myform">
+<input type="text" id="txt" /><br/>
+<body onload="clock1()"></body>
+</form>
+
+
+</html>
+
+ 
+ 

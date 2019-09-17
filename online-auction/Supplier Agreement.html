@@ -1,0 +1,595 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Pradeep Kumar" />
+  <meta name="copyright" content="BMS Institute of Technology" />
+  <meta name="author" content="Design: Pradeep Kumar www.bmsit.org / Author: MCA 6th sem student" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Design and Development of Multi-Attribute Decision making model in Reverse Auction" />
+  <meta name="keywords" content="online auction,reverse auction, eprocurement ,multi-attribute reverse auction,online bidding,multi-attribute auction" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout2_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout2_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/auction1.png" />
+  <link href="./style.css" rel="stylesheet" type="text/css" media="all">
+  <script src="./cb=gapi.loaded0" async=""></script><script type="text/javascript" async="" src="./plusone.js" gapi_processed="true"></script><script type="text/javascript" src="./jquery.1.3.2.jquery.min.js"></script>
+  <link href="./stylesDynamic.css" rel="stylesheet" type="text/css" media="all">
+  <script type="text/javascript" src="./scripts.js"></script>
+  <script type="text/javascript" src="./scriptSlider.js"></script>
+  <link href="./stylesDynamic(1).css" rel="stylesheet" type="text/css">
+  <link><link><link><link></head><body><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:#7e8aa2" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+  <script type="text/javascript">
+  jQuery(document).ready(function(){
+	$('#pageNav').addClass('active');
+	$('#pageNav ul li:first').addClass('active');	
+  });
+</script>
+
+  <title>Online Auction | User Agreement</title>
+</head>
+<!--#################   CODE FOR DISABLE BACK BUTTON  ###################-->
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript">
+   function disableBackButton()
+   {
+     window.history.forward();
+   }
+  
+  setTimeout("disableBackButton()", 0);
+  (function($) { disableBackButton(); }); 
+    
+var isNS = (navigator.appName == "Netscape") ? 1 : 0;
+
+if(navigator.appName == "Netscape") document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);
+
+function mischandler(){
+return false;
+}
+function mousehandler(e){
+	
+var myevent = (isNS) ? e : event;
+var eventbutton = (isNS) ? myevent.which : myevent.button;
+var eventbutton1 =  myevent.button;
+
+
+if((eventbutton==2)||(eventbutton==3))
+	return false;
+}
+
+document.oncontextmenu = mischandler;
+document.onmousedown = mousehandler;
+document.onmouseup = mousehandler;
+
+</script></head>
+
+<!-------------------------------------------------------------------------->
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+  <!-- Main Page Container -->
+  <div class="page-container">
+
+   <!-- For alternative headers START PASTE here -->
+
+    <!-- A. HEADER -->      
+    <div class="header">
+      
+      <!-- A.1 HEADER TOP -->
+      <div class="header-top">
+        
+        <!-- Sitelogo and sitename -->
+        <a class="sitelogo" href="#" title="Go to Start page"></a>
+        <div class="sitename">
+          <h1><a href="index.html" title="Go to Start page">Online Auction<span style="font-weight:normal;font-size:50%;"></span></a></h1>
+          <h2></h2>
+        </div>
+    
+        <!-- Navigation Level 0 -->
+        <div class="nav0">
+          <ul>
+		   <li><a href="#" title="home in India"><img src="./img/flag_India.jpg" alt="Image description" /></a></li>
+            <li><a href="#" title="Pagina home in Italiano"><img src="./img/flag_italy.gif" alt="Image description" /></a></li>
+            <li><a href="#" title="Homepage auf Deutsch"><img src="./img/flag_germany.gif" alt="Image description" /></a></li>
+            <li><a href="#" title="Hemsidan p&aring; svenska"><img src="./img/flag_sweden.gif" alt="Image description" /></a></li>
+          </ul>
+        </div>			
+
+        <!-- Navigation Level 1 -->
+        <div class="nav1">
+          <ul>
+            <li><a href="../r/home.html" title="Go to Start page">Home</a></li>
+            <li><a href="../r/index.html" title="Get to know who we are">About</a></li>
+            <li><a href="http://localhost/r/Contact Us.php" title="Get in touch with us">Contact</a></li>																		
+            <li><a href="afterNews.html" title="Get an overview of Procurement Process">Help</a></li>
+          </ul>
+        </div>              
+      </div>
+<!--########################    SLIDING HEADER   ######################-->
+    <div id="pageBanner">
+        	<div class="pageBannerContent">
+            	<div id="gallery">
+                    <div id="slides" style="width: 4990px; margin-left: -1810.2179892840595px; ">
+                        <div class="pageBannerInnerCont" style="">
+                            <h3>EXTENSIVE SUPPLIER DATABASE</h3>
+                            <p>Whether you are a manufacturer, distributor or a service provider we can provide that vital link to a large community of Buyers that could mean increased business opportunities for you.
+                            </p>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="pageBannerInnerCont bannerTwo" style="">
+                            <h3>ONLINE REQUEST</h3>
+                            <p>Do you need help sourcing new Suppliers for a contract you have available? Use our expertise and experience to help you with cross border sourcing.
+                            </p>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="pageBannerInnerCont bannerThree" style="">
+                            <h3>SUPPLIER SCAN REPORTS</h3>
+                            <p>Do you already know the suppliers in the market but need extra information, take a look at our available reports.
+                            </p>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="pageBannerInnerCont bannerFour" style="">
+                            <h3>CROSS-BORDER SOURCING</h3>
+                            <p>Are you a professional Buyer and need help in locating new suppliers for a contract you have available, then search our extensive database and find the right suppliers you need.
+                            </p>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="pageBannerInnerCont bannerFive" style="">
+                            <h3>eTENDERING TOOL</h3>
+                            <p>Deliver increased savings by using our self-service, on demand and low-cost eSourcing Tool to create your own specific RFI, RFP or RFQ to evaluate and compare your Suppliers.
+                            </p>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+             	</div>
+				
+		<a href="../r/index.html" title="register today"><script type="text/javascript">writePngImage('/r/img/bgRegister.png', 145, 63, 'register today');</script><img alt="Register Today" src="../r/img/bgRegister.png" style="width: 145px; height: 63px;"></a>
+                <div class="bannerNav">
+                	<ul>
+                		                    		<li class="menuItem"><a href="#">Extensive Supplier </a><span>bg</span></li>
+                		                		
+                		                		
+                		                        	<li class="menuItem"><a href="#">Online Request</a><span>bg</span></li>
+                                                
+                                                
+                                                	
+                        	<li class="menuItem active "><a href="#">Supplier Scan Reports</a><span>bg</span></li>
+                        	
+                                                	<li class="menuItem"><a href="#">Cross-border Sourcing</a><span>bg</span></li>
+                                                
+                                                
+                        	
+                        	<li class="menuItem"><a href="#">eTendering Tool</a><span>bg</span></li>
+                                                
+                                                
+                        	
+                    </ul>
+                </div> 
+            </div>        
+      	</div> 
+<!---------------------------------------------------------------------------->
+      <!-- A.3 HEADER BOTTOM -->
+      <div class="header-bottom">
+      
+        <!-- Navigation Level 2 (Drop-down menus) -->
+        <div class="nav2">
+	
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="home.html">Home</a></li>
+          </ul>
+          
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="#">Buyer<!--[if IE 7]><!--></a><!--<![endif]-->
+              <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul>
+                  <li><a href="buyer.html">Buyer</a></li>
+                  <li><a href="Buyer Agreement.html">Register</a></li>
+                  
+				  <li><a href="benefits.html">Buyer Benefits</a></li>
+				  
+                                                    
+                </ul>
+              <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+          </ul>          
+
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="#">Supplier<!--[if IE 7]><!--></a><!--<![endif]-->
+              <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul>
+                  <li><a href="supplier.html">Supplier</a></li>
+                  <li><a href="Supplier Agreement.html">Register</a></li>
+                  
+				  <li><a href="afterNews.html">Futured Suppliers</a></li>
+                </ul>
+              <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+          </ul> 
+
+		  <!-- Navigation item -->
+        <!--  <ul>
+            <li><a href="#">Service Details</a>
+               <ul>
+                  <li><a href="#">Our Services</a></li>
+                  <li><a href="#">Methodology</a></li>
+                  <li><a href="#">Process</a></li>
+				  <li><a href="#">Benefits</a></li>
+                  <li><a href="afterNews.html">Current News</a></li>
+                </ul>
+              <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+          </ul> 
+ 
+ 
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<script src="script.js" type="text/javascript" align="right"></script>
+   
+<!--###############   CODE FOR DYNAMIC CLOCK   ##################-->
+<head>
+<script type="text/javascript">
+function clock1()
+ {
+  
+   var d=new Date();
+   var t=d.toLocaleTimeString();
+   document.myform.txt.value=t;
+   setTimeout("clock1()",1000);
+
+
+  }
+</script>
+</head>
+
+<form name="myform">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="txt" size=4 />
+<body onload="clock1()"></body>
+</form>
+        
+<!---------------------------------------------------------->         
+		 
+		 
+        </div>
+	  </div>
+
+      <!-- A.4 HEADER BREADCRUMBS -->
+
+      <!-- Breadcrumbs -->
+      <div class="header-breadcrumbs">
+        <ul>
+          <li><a href="../r/home.html">Home&nbsp;</a></li>
+          <li><a href="../r/index.html">About Us&nbsp;</a></li>
+          <li><a href="http://localhost/r/Contact Us.php">Contact&nbsp;</a></li>
+         
+        </ul>
+
+        <!--##############   SEARCH FORM   ##############-->    
+		
+        <div class="searchform">
+          <form action="#" method="get" class="form">
+            <fieldset>
+              <input value=" Search..." name="field" class="field" />
+              <input type="submit" value="GO!" name="button" class="button" />
+            </fieldset>
+          </form>
+        </div>
+	   </div>
+	 </div>
+		
+    
+
+    <!-- For alternative headers END PASTE here -->
+
+    <!-- B. MAIN -->
+   <div class="main">
+ 
+      <!-- B.1 MAIN NAVIGATION -->
+     <div class="main-navigation">
+
+        <!-- Navigation Level 3 -->
+        <div class="round-border-topright"></div>
+        <h1 class="first">Sign in Here</h1>
+
+        <!-- Navigation with grid style -->
+        <dl class="nav3-grid">
+          <dt><a href="../r/Administrator Login.html">Admin Login</a></dt>
+          <dt><a href="../r/Supplier Login.html">Supplier Login</a></dt>
+          <dt><a href="../r/Buyer Login.html">Buyer Login</a></dt>
+          
+        </dl> 
+     </div>
+	 
+ 
+      <!-- B.2 MAIN CONTENT -->
+     <div class="main-content">
+        
+        <!-- Pagetitle -->
+    <h1 class="pagetitle">Supplier Zone</h1>
+
+        <!--####################  HOME PAGE  ##################-->
+
+        <!-- Content unit - One column -->
+        <h1 class="block">User Agreement</h1>
+        <div class="column1-unit"> 
+		<p>Last revised on June 10, 2012</p>
+<p><font color="#336699">
+We encourage you to read this User Agreement with great care in order to participate with us as a User in the development of a quality service and first-rate Internet. By becoming a User, you acknowledge that you have read and understood the terms and conditions of this User Agreement and that you agree to be bound by all of its provisions.</p>
+<p>
+
+<p><strong>1. Your Obligations — What You Must Do</strong>
+<p>
+<strong>Comply with laws and the Agreement:</strong> You must comply with all applicable laws, the Agreement, as may be amended, and the following terms, which are incorporated into this Agreement:</p>
+	
+	<ul class="bullet">
+	<li class="line"><p>Do’s and Don’ts</li> 
+	<li class="line"><p>Notice and Take-Down Procedure Terms for Complaints re. Copyright Infringement and Content</li>
+	<li class="line"><p>Other Notices</li>
+	<li class="line"><p>Supplier Scan’s Privacy Policy</li>
+	</ul>
+
+<p><strong>License and warrant your submissions:</strong> You do not have to submit anything to us, but if you choose to submit something (including any User generated content, ideas, concepts, techniques and data), you must grant, and you actually grant by concluding this Agreement, a nonexclusive, irrevocable, worldwide, perpetual, unlimited, assignable, sublicenseable, fully paid up and royalty-free right to us to copy, prepare derivative works of, improve, distribute, publish, remove, retain, add, and use and commercialize, in any way now known or in the future discovered, anything that you submit to us, without any further consent, notice and/or compensation to you or to any third parties. By submitting any information to us, you represent and warrant that such submission is accurate, is not confidential, and is not in violation of any contractual restrictions or other third party rights. You further agree to inform Supplier Scan in the event that any such information has changed since your registration with Supplier Scan and, if appropriate, you agree to make such modifications yourself to your profile.</p>
+<p>
+Online Auction exercises no control over any content you or others submit while using Online Auction. Online Auction has no obligation to verify the identity of any Users when they are connected to the site or to supervise the content which has been provided by Users. Note that we describe our current practices related to personally identifiable information collected through Online Auction in our Privacy Policy and that we may update our policies and practices from time to time at our sole discretion. Should you believe that someone is misusing or otherwise appropriating your information, you must immediately inform Online Auction.</p>
+<p>
+Prior to joining Online Auction, you must consider and decide, yourself, the extent to which you wish to reveal information about yourself and your organisation to the large community of Online Auction Users and to Online Auction and you must not communicate to Online Auction and its Users any information the dissemination of which could be harmful to you.</p>
+<p>
+<strong>Service Eligibility:</strong> You represent and warrant that you (a) are not under the age of 18; (b) have not previously been suspended or removed from Online Auction; (c) are not a direct competitor of Online Auction; (d) do not have more than one Online Auction account at any given time; and (e) that you have full power and authority to enter into this Agreement and in doing so will not violate any other agreement to which you are a party. In addition, you must provide all equipment and software necessary to connect to Online Auction, including, but not limited to, if the Service contains a mobile element, a mobile hand set or other mobile access device that is in working order and suitable for use in connection with the Service and to use any part of the Service.</p>
+<p>
+<strong>Keep your password secure:</strong> Keep your password confidential, do not use other Users’ accounts and do not let others use your account; you are responsible for anything that happens through your account — until you notify us of a breach (pradeep.vwa@gmail.com), close down your account or prove that your account security was compromised due to a fault of our systems. You are prohibited from selling, trading or otherwise transferring your Online Auction account or any information therein to another party or charging anyone for access to any portion of Online Auction, or any information therein.</p>
+<p>
+<strong>Indemnify us:</strong> You have to indemnify us and hold us harmless from any damages, losses and costs (including, but not limited to, reasonable attorneys’ fees) related to third party claims, charges or investigations, caused by (a) your failure to comply with this Agreement, including, without limitation, your submission of content that violates third party rights or applicable laws, (b) any content you submit to Supplier Scan or (c) any activity in which you engage on or through the Supplier Scan.</p>
+<p>
+<strong>Pay:</strong> If you subscribe to any services that we offer for a charge, you will pay the applicable fees (including, without limitation, annual fees for premium accounts) as they become due plus all related taxes and reimburse us for any collection costs and interest for any overdue amounts.</p>
+<p>
+<strong>Notify us of acts contrary to the Agreement:</strong> If you believe that you are entitled or obligated to act contrary to this Agreement under any mandatory laws, you agree to provide us with detailed, 30 days prior written notice before you act contrary to this Agreement, to allow us to assess whether we may, at our sole discretion, provide an alternative remedy for the situation.</p>
+<p>
+<strong>Premium Services:</strong> If you have access to any Online Auction Premium Services, this User Agreement applies to your use of such services.</p>
+<p>
+<strong>Forums:</strong> Online Auction may include various forums where you can post your observations and comments on designated topics. Online Auction cannot guarantee that other members will not use the ideas and information that you share. Therefore, if you have an idea or information that you would like to keep confidential and/or donot want others to use, do not post it on the Service. ONLINE AUCTION AND THE ONLINE AUCTIION AFFILIATES ARE NOT RESPONSIBLE FOR A MEMBER MISUSE OR MISAPPROPRIATION OF ANY CONTENT OR INFORMATION YOU POST IN ANY FORUMS.</p>
+<p>
+<strong>Privacy:</strong> You should carefully read our full Privacy Policy before deciding to become a User of Online Auction. Please note that certain information, statements, data and content which you may choose to provide might, or are likely to, reveal your gender, ethnic origin, nationality, religion and/or sexual orientation, and that you are providing all such information, statements, data and content in full acknowledgment thereof and under your sole responsibility. By providing such information to us, all of which is optional, you are hereby expressly giving your informed consent to the processing by us of such sensitive data.</p>
+
+<p style="padding:2px"></p>
+
+<p><strong>2. Your Rights — What You May Do</strong><br />
+On the condition that you comply with all your obligations under the Agreement, we grant you a limited, revocable, non-exclusive, non-assignable, non-sublicenseable right to access, through a generally available web browser (but not any scraping, spidering, crawling or other technology or specialist software used to harvest data) to view information that we provide on Online Auction web-pages as we intend such information to be used, and only in accordance with the Agreement and any specific terms of use that we make available to you. You may submit information to us at your own risk of loss per Sections 1, 4 and 8 hereof. We grant you no other rights, implied or otherwise.</p>
+
+<p style="padding:2px"></p>
+
+<p><strong>3. Our Rights and Obligations — What We Must And May Do</strong><br />
+The purpose of Online Auction is to provide a service to facilitate professional networking among Users throughout the world. It is intended that Users only connect to other Users who they currently know and seek to further develop a professional relationship with those Users.</p>
+<p>
+For as long as Online Auction continues to offer services, Online Auction shall provide (and seek to update, improve and expand, in similar and different new ways) the Online Auction platform and service with the purpose of providing all members with professional networking connectivity, through Online Auction proprietary tools, rules and protocols which Online Auction may update, improve, discontinue and change at any time, at Online Auction sole discretion.</p>
+<p>
+Any other use of Online Auction (such as seeking to connect to someone a User does not know or to use Supplier Scan as a means of generating revenue through the sale of contacts or information to others) is strictly prohibited and is a violation of this Agreement.</p>
+<p>
+We allow you to access Online Auction as it may exist and be available on any given day. We have no other obligations, except as expressly stated in this Agreement. We may modify, replace, refuse access to, suspend or discontinue Online Auction, partially or entirely, or to charge and modify prices for Online Auction. All of these changes shall be effective upon their posting on our site or by email communication to you. We reserve all rights not expressly granted herein, including, without limitation, title, ownership, intellectual property rights, and all other rights and interest in Online Auction and all related items.</p>
+<p>
+Online Auction reserves the right to withhold, remove and or discard any content available as part of your account, with or without notice. For avoidance of doubt, Online Auction has no obligation to store, maintain or provide you a copy of any content that you or other Users provide when using the Services.</p>
+<p>
+Online Auction may include or automatically produce links to third party web sites ("Third Party Sites"). Online Auction is not responsible for and does not endorse any advertising, products or other materials on or available from such web sites or resources. Online Auction may also include computer items such as music device, sound device, flash-drive, Laptop, applications, software and other content or items belonging to or originating from third parties (the "Third Party Applications, Software or Content").</p>
+<p>
+You acknowledge and agree that we may send you important information and notices regarding the Service by email or through other means, including mobile or other hand held devices. You acknowledge and agree that we shall have no liability associated with or arising from your failure to maintain accurate contact or other information, including, but not limited to, your failure to receive critical information about the Service. You acknowledge, consent and agree that we may access, preserve, and disclose your registration and any other information you provide if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce this Agreement; (c) respond to claims of a violation of the rights of third-parties; (d) respond to your requests for customer service; or (e) protect the rights, property, or personal safety of Online Auction, the Online Auction Affiliates, its Users and the public.</p>
+<p>
+You are solely responsible for your interactions with other members. Online Auction reserves the right, but has no obligation, to monitor disputes between you and other members and to terminate your account if Online Auction determines, in its sole discretion, that doing so is prudent.</p>
+
+<p style="padding:2px"></p>
+
+<p><strong>4. Disclaimer</strong><br />
+SOME COUNTRIES AND JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED TERMS IN CONTRACTS WITH CONSUMERS AND AS A RESULT THE CONTENTS OF THIS SECTION MAY NOT APPLY TO YOU.</p>
+<p>
+DO NOT RELY ON ONLINE AUCTION, ANY INFORMATION THEREIN, OR ITS CONTINUATION. WE PROVIDE THE PLATFORM FOR ONLINE AUCTION AND ALL INFORMATION AND SERVICES ON AN AS IS AND AS AVAILABLE BASIS. WE DO NOT PROVIDE ANY EXPRESS WARRANTIES OR REPRESENTATIONS.</p>
+<p>
+TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, WE DISCLAIM ANY AND ALL IMPLIED WARRANTIES AND REPRESENTATIONS, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. IF YOU ARE DISSATISFIED OR HARMED BY SUPPLIER SCAN OR ANYTHING RELATED TO SUPPLIER SCAN, YOU MAY LEAVE SUPPLIER SCAN AND TERMINATE THE AGREEMENT IN ACCORDANCE WITH SECTION 6 HEREOF AND SUCH TERMINATION SHALL BE YOUR SOLE AND EXCLUSIVE REMEDY.</p>
+<p>
+ONLINE AUCTION IS NOT RESPONSIBLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES FOR THE DELIVERY OF ANY MESSAGES (SUCH AS MAILS, POSTING OF ANSWERS OR TRANSMISSION OF ANY OTHER USER GENERATED CONTENT) SENT THROUGH ONLINE AUCTION TO ANYONE. IN ADDITION, WE NEITHER WARRANT NOR REPRESENT THAT YOUR USE OF THE SERVICE WILL NOT INFRINGE THE RIGHTS OF THIRD PARTIES. ANY MATERIAL, SERVICE, OR TECHNOLOGY DESCRIBED OR USED ON THE WEBSITE MAY BE SUBJECT TO INTELLECTUAL PROPERTY RIGHTS OWNED BY THIRD PARTIES WHO HAVE LICENSED TO US SUCH MATERIAL, SERVICE, OR TECHNOLOGY.</p>
+<p>
+ONLINE AUCTION DOES NOT HAVE ANY OBLIGATION TO VERIFY THE IDENTITY OF THE PERSONS SUBSCRIBING TO ITS SERVICES, NOR DOES IT HAVE ANY OBLIGATION TO MONITOR THE USE OF ITS SERVICES BY OTHER USERS OF THE COMMUNITY; THEREFORE, ONLINE AUCTION DECLINES ALL LIABILITY FOR IDENTITY THEFT OR ANY OTHER MISUSE OF YOUR IDENTITY OR INFORMATION.</p>
+<p>
+ONLINE AUCTION DOES NOT GUARANTEE THAT THE SERVICES WHICH IT PROVIDES WILL FUNCTION WITHOUT INTERRUPTION OR ERRORS IN FUNCTIONING. IN PARTICULAR, THEIR OPERATION MAY BE MOMENTARILY INTERRUPTED DUE TO MAINTENANCE, UPDATES, OR TECHNICAL IMPROVEMENTS. ONLINE AUCTION DISCLAIMS ALL LIABILITY FOR DAMAGES CAUSED BY ANY SUCH INTERRUPTION OR ERRORS IN FUNCTIONING. FURTHERMORE, ONLINE AUCTION DISCLAIMS ALL LIABILITY FOR ANY MISFUNCTIONING, IMPOSSIBILITY OF ACCESS, OR POOR USE CONDITIONS OF THE ONLINE AUCTION SITE DUE TO INAPPROPRIATE EQUIPMENT, DISTURBANCES LINKED TO THE INTERNET SERVICE PROVIDER, TO THE SATURATION OF THE INTERNET NETWORK, AND FOR ANY OTHER REASON UNRELATED TO ONLINE AUCTION.</p>
+
+<p style="padding:2px"></p>
+
+<p><strong>5. Limitation of Liability</strong><br />
+SOME COUNTRIES DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY IN CONTRACTS WITH CONSUMERS AND AS A RESULT THE CONTENTS OF THIS SECTION MAY NOT APPLY TO YOU.</p>
+<p>
+Neither Online Auction nor any of its subsidiaries, affiliated companies, employees, shareholders, or directors shall be liable for (1) any damages in excess of the most recent annual fee that you paid for a premium account, if any, or 100 Rs., whichever amount is greater, or (2) any special, incidental, indirect, punitive or consequential damages or loss of use, profit, revenue or data to you or any third person arising from your use of the Service, any platform applications or any of the content or other materials on, accessed through or downloaded from Online Auction even if Online Auction is aware or has been advised of the possibility of such damages. The limitation of liability set forth in the preceding sentence shall:</p>
+<ul>
+<li class="line"><p>Apply regardless of whether you base your claim on contract, tort, statute or any other legal theory, we knew or should have known about the possibility of such damages, or the limited remedies provided herein fail of their essential purpose, and</li> 
+<li class="line"><p>Not apply to any damage that Online Auction Affiliates cause you intentionally and knowingly in violation of this Agreement or applicable law, or as otherwise mandated by applicable law that cannot be derogated from in this Agreement.</li>
+</ul> 
+
+<p style="padding:2px"></p>
+
+<p><strong>6. Termination</strong><br />
+You may terminate this Agreement, for any or no cause, at any time, with notice to Online Auction which shall be effective upon Online Auction processing such notice. Online Auction may terminate the Agreement for any or no cause, at any time, with or without notice, which shall be effective immediately or as may be specified in the notice. For avoidance of doubt, your access to any Premium Services may be terminated only by Online Auction or the party paying for such services. Termination of your Online Auction account includes disabling your access to Online Auction (including any content you submitted or others submitted) and may also bar you from any future use of Online Auction.</p>
+<p>
+In furtherance and without limiting the foregoing, Online Auction has adopted a policy of terminating, in appropriate circumstances and at Online Auction sole discretion, members who are deemed to be repeat infringers under the Indian Copyright Act. Online Auction may also at its sole discretion limit access to the Service and/or terminate the memberships of any Users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.</p>
+
+<p style="padding:2px"></p>
+
+<p><strong>7. Consequences of Termination</strong><br />
+Upon termination, you lose access to Online Auction. The terms of this Agreement shall survive any termination, except Sections 2 and 3 hereof.</p>
+
+
+<p style="padding:2px"></p>
+
+<p><strong>8. General Terms</strong><br />
+<p>
+<strong>Severability:</strong> If any provision of the Agreement is found to be invalid or unenforceable under mandatory laws of a particular jurisdiction, such provision shall be interpreted as to give maximum effect to its intended purpose and this shall not affect the validity or enforceability of (a) such provision under the laws of any other jurisdiction, or (b) any other provision of the Agreement.</p>
+<p>
+<strong>Notices:</strong> We may notify you via postings on email or any other communications means to contact information you provide to us. You may also notify us via email at pradeep.vwa@gmail.com at any notices that you provide without compliance with this Section on Notices shall have no legal effect.</p>
+<p>
+<strong>Entire Agreement:</strong> You agree that this Agreement constitutes the entire, complete and exclusive agreement between you and us regarding the Service and supersedes all prior agreements and understandings, whether written or oral, or whether established by custom, practice, policy or precedent, with respect to the subject matter of this Agreement.</p>
+<p>
+<strong>Amendments to this Agreement:</strong> We reserve the right to modify, supplement or replace the terms of the Agreement, effective upon posting at www.onlineauction.com or notifying you otherwise. If you do not want to agree to changes to the Agreement, you can terminate the Agreement at any time per Section 7 hereof.</p>
+<p>
+<strong>No informal waivers, agreements or representations:</strong> Our failure to act with respect to a breach by you or others does not waive our right to act with respect to that breach or subsequent similar or other breaches. Except as expressly and specifically contemplated by the Agreement, no representations, statements, consents, waivers or other acts or omissions by any Online Auction Affiliate shall be deemed legally binding on any Online Auction Affiliate, unless documented in a physical writing hand signed by a duly appointed officer of Online Auction.</p>
+<p>
+<strong>No Injunctive Relief:</strong> In no event shall you seek or be entitled to rescission, injunctive or other equitable relief, or to enjoin or restrain the operation of the Service, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Service or any content or other material used or displayed through the Service.</p>
+<p>
+<strong>Beneficiaries:</strong> Online Auction Affiliates are not parties, but intended third party beneficiaries of this Agreement, with a right to enforce the Agreement directly against you.</p>
+<p>
+<strong>Assignment and Delegation:</strong> You may not assign or delegate any rights or obligations under the Agreement and any purported assignment and delegation shall be ineffective. We may freely assign or delegate all rights and obligations under the Agreement, fully or partially. We may also substitute, by way of unilateral novation, effective upon notice to you, Online Auction for any third party that assumes our rights and obligations under this Agreement.</p>
+
+<p style="padding:2px"></p>
+
+<p><strong>9. Complaints</strong><br />
+Regarding copyright infringement complaints, see our policies and procedures for <a href="agreement.htm#copyright"><em>Complaints regarding Copyright Infringement</em></a>. With respect to content-related complaints, see our policies and procedures for <a href="agreement.htm#content"><em>Complaints Regarding Content</em></a>.</p>
+
+<p style="padding:2px"></p>
+
+<p><strong>10. Online Auction User Do’s & Don’ts</strong><br />
+As a condition to access Online Auction, you agree to this User Agreement and to strictly observe the following Do’s and Don’ts:</p>
+<p>
+<strong>DO</strong></p>
+<ul class="bullet">
+	<li class="line"><p>comply with all applicable laws, including, without limitation, tax laws, export control laws and regulatory requirements;</li> 
+	<li class="line"><p>provide accurate information to us and update it as necessary;</li>
+	<li class="line"><p>review the Privacy Policy;</li>
+	<li class="line"><p>review and comply with notices sent by Online Auction concerning Online Auction;</li>
+</ul>
+<p>
+<strong>DON'T</strong></p>
+<ul class="bullet">
+	<li class="line"><p>duplicate, license, sublicense, publish, broadcast, transmit, distribute, perform, display, sell, rebrand, otherwise transfer or commercially exploit Supplier Scan (excluding content posted by you) except as permitted in the User Agreement;</li>
+	<li class="line"><p>reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying intellectual property used to provide Online Auction, or any part thereof;</li>
+	<li class="line"><p>include information in your profile or in Status Updates which reveals your identity such as an email address, phone number or address that is confidential in nature;</li>
+	<li class="line"><p>utilize information, content or any data you view on and/or obtain from Online Auction to provide any service that is competitive, in Online Auction’s sole discretion, with Online Auction;</li>
+	<li class="line"><p>imply or state, directly or indirectly, that you are affiliated with or endorsed by Online Auction unless you have entered in to a written agreement with Online Auction (this includes representing yourself as an accredited Online Auction trainer if you have not been certified by Online Auction as such);</li>
+	<li class="line"><p>adapt, modify or create derivative works based on Online Auction or technology underlying the Services, or other Users’ content, in whole or part;</li>
+	<li class="line"><p>rent, lease, loan, trade, sell/re-sell access to Online Auction or any information therein, or the equivalent, in whole or part;</li>
+	<li class="line"><p>deep-link to the Site for any purpose, (i.e. including a link to a Online Auction web page other than Online Auction’s home page) unless expressly authorized in writing by Online Auction or for the purpose of promoting your profile or a Group on Supplier Scan;</li>
+	<li class="line"><p>access, reload or refresh or make any other request to transactional servers more than once during any three second interval;</li>
+	<li class="line"><p>use manual or automated software, devices, scripts robots, other means or processes to access, scrape, crawl or spider any web pages contained in the site;</li>
+	<li class="line"><p>use automated methods to send messages or other permitted activities;</li>
+	<li class="line"><p>access, via automated or manual means or processes, Online Auction for purposes of monitoring its availability, performance or functionality or for any competitive purpose;</li>
+	<li class="line"><p>attempt to or actually access Online Auction by any means other than through the interface provided by Online Auction;</li>
+	<li class="line"><p>attempt to or actually override any security component included in or underlying Supplier Scan;</li>
+	<li class="line"><p>engage in any action that interferes with the proper working of or places an unreasonable load on our infrastructure, including but not limited to unsolicited communications, attempts to gain unauthorized access, or transmission or activation of computer viruses;</li>
+	<li class="line"><p>remove any copyright, trademark or other proprietary rights notices contained in or on Supplier Scan, including those of both Supplier Scan or any of its licensors;</li>
+	<li class="line"><p>remove, cover or otherwise obscure any form of advertisement included as part of Supplier Scan;</li>
+	<li class="line"><p>use any information obtained from Supplier Scan to harass, abuse or harm another person;</li>
+	<li class="line"><p>collect, use or transfer any information, including but not limited to, personally identifiable information obtained from Supplier Scan except as expressly permitted in the User Agreement or the owner of such information may expressly permit;,/
+	<li class="line"><p>interfere with or disrupt Supplier Scan, including but not limited to any servers or networks connected to Supplier Scan, or disobey any requirements, procedures, policies or regulations of networks connected to the Supplier Scan;</li>
+	<li class="line"><p>use or attempt to use another's account without authorization from the Company, or create a false identity on Online Auction;</li>
+	<li class="line"><p>infringe or use Online Auction brand, logos and/or trademarks, including, without limitation, using the word Online Auction in any business name, email, or URL or including Online Auction trademarks and logos on any website without authorization;</p></li>
+	<li class="line"><p>upload, post, email, transmit or otherwise make available or initiate any content that:</li>
+	<ul class="bullet2">
+		<li class="line"><p>falsely states, impersonates or otherwise misrepresents your identity, including but not limited to the use of a pseudonym, or misrepresenting your current or previous positions and qualifications, or your affiliations with a person or entity, past or present;</li>
+		<li class="line"><p>is unlawful, libellous, abusive, obscene, discriminatory or otherwise objectionable;</li>
+		<li class="line"><p>includes any personally identifiable information for which there is not a field provided by Online Auction;</li>
+		<li class="line"><p>includes information that you do not have the right to disclose or make available under any law or under contractual or fiduciary relationships (such as insider information, or proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);</li>
+		<li class="line"><p>infringes upon patents, trademarks, trade secrets, copyrights or other proprietary rights;</li>
+		<li class="line"><p>contains software viruses or any other computer code, files or programs that interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment of Supplier Scan or any User of Supplier Scan;</li>
+		<li class="line"><p>forges headers or otherwise manipulate identifiers in order to disguise the origin of any communication transmitted through the Services; and/or</li>
+		<li class="line"><p>adds to a content field content that is not intended for such field</li>
+	</ul>
+<li class="line"><p>Participate, directly or indirectly, in the setting up or development of a network which seeks to implement practices which are similar to sales by network or the recruitment of independent home salespeople to the purposes of creating a network thereof or other similar practices;</li>
+</ul>
+</ul>
+
+<p>
+Each User expressly authorizes Online Auction to modify said content in order to conform to the interface or display requirements of the Services or of other communications media as set forth above, and/or to render them compatible with its technical performance or media format in question. These rights are granted throughout the world and for the entire term of this Agreement. The User is prohibited from copying, reproducing or otherwise using the content relating to other Users of Supplier Scan for any purpose other than for those purposes strictly related to use of the Online Auction services for personal purposes.</p>
+
+<p>
+Upon receipt of the written notification containing the information as outlined in 1 through 6 above:</p>
+<ul class="decimal">
+<li class="line"><p>1.	Online Auction may remove or disable access to the material that is alleged to be infringing;</p></li>
+
+<li class="line"><p>2.	Online Auction may forward the written notification to such alleged infringer; and</p></li>
+
+<li class="line"><p>3.	Online Auction may take reasonable steps to promptly notify the alleged infringer that it has removed or disabled access to the material.</p></li>
+</ul>
+<p>
+Counter-Notification:<br />
+If the alleged infringer believes that a notice of copyright infringement has been wrongly filed against it and it would like to submit a counter-notification, it may file a Counter-Notification in Response to Claim of Copyright Infringement with Online Auction’s Copyright Agent.</p>
+<p>
+To be effective, a Counter-Notification must be a written communication provided to the Online Auction’s Copyright Agent for Notice that includes the following information:</p>
+<ul class="decimal">
+<li class="line"><p>1.	A physical or electronic signature of the alleged infringer;</p></li>
+
+<li class="line"><p>2.	Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled;</p></li>
+
+<li class="line"><p>3.	A statement under penalty of perjury that the alleged infringer has a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and</p></li>
+
+<li class="line"><p>4.	The alleged infringer’s name, address, and telephone number, and a statement that the alleged infringer consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the alleged infringer’s address is outside of the United States, for any judicial district in which Supplier Scan may be found, and that the alleged infringer will accept service of process from the person who provided notification or an agent of such person.</p></li>
+</ul>
+<p> 
+Upon receipt of a Counter-Notification containing the information as outlined in 1 through 4 above:</p>
+<ul class="decimal">
+<li class="line"><p>1.	Online Auction  may promptly provide you with a copy of the Counter-Notification;</p></li>
+
+<li class="line"><p>2.	Online Auction  may inform you that it will replace the removed material or cease disabling access to it within ten (10) business days; and</p></li>
+
+<li class="line"><p>3.	Online Auction may replace the removed material or cease disabling access to the material within ten (10) to fourteen (14) business days following receipt of the Counter-Notification, provided Online Auction’s Copyright Agent for Notice has not received notice from you that an action has been filed seeking a court order to restrain Subscriber from engaging in infringing activity relating to the material on Online Auction’s network or system.</p></li>
+</ul>
+<p>
+You may want to seek the advice of independent legal counsel before filing a notification or counter-notification.</p>
+
+<p style="padding:2px"></p>
+
+<p><strong><a name="#content" style="color:#066381">Notice and Procedure for Making Complaints Regarding Content</a></strong><br />
+To notify Online Auction of Content that infringes your rights (other than copyright violations) or is otherwise unlawful, you must send a notice to the Online Auction Content Complaint Manager by mail, e-mail, or fax, and provide the following information:</p>
+	<ul class="bullet">
+		<li class="line"><p>Your name, address, telephone number, and e-mail address;</p></li>
+		<li class="line"><p>A description of the Specified Content that your claim either infringes your rights or is otherwise unlawful, specifying which parts of it you believe infringe your rights, or are unlawful, and which parts you believe should be removed;</p></li>
+		<li class="line"><p>A description of the exact location of the Specified Content on the Web Site;</p></li> 
+		<li class="line"><p>In the event you believe that the Specified Content infringes your rights): A statement specifying in detail the rights you assert, and why the Specified Content infringes them;</p></li>
+		<li class="line"><p>In the event you believe that the Specified Content is otherwise unlawful): A statement specifying in detail which laws you believe are being breached, and why the Specified Content does so;</p></li> 
+		<li class="line"><p>A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are damaged by the Specified Content or authorized to act on such person’s behalf; and</p></li> 
+		<li class="line"><p>Your electronic or physical signature (as appropriate).</p></li>
+	</ul> 
+<p>
+When we receive a notice that complies with the above requirements, we will evaluate the information you provided (including, if appropriate, forwarding the notice to, or otherwise contacting the source of the Specified Content), and if appropriate in our judgment, remove or disable access to the Specified Content. In such case, we may notify the source of the Specified Content of your complaint and our action taken. In some cases, if the source of the Specified Content provides us with information indicating that the Specified Content has been removed wrongly, we may reinstate the Specified Content. Our take-down and re-instatement procedures are and remain at our sole discretion.</p>
+
+<p>
+The following provisions apply and prevail over the above stated clauses if your country of registration is India, you are using Online Auction from India and you are using the Indian version of Online Auction:</p>
+
+<p style="padding:2px"></p>
+
+<p><strong>Liability</strong><br />
+Subject to the provisions contained in the following paragraph and irrespective of legal grounds, Online Auction is liable only for damages resulting from the intentional misconduct or gross negligence of Online Auction, its legal representatives, employees or authorized agents.</p>
+<p>
+For damages resulting from the gross negligence of Online Auction or its Agents, liability is limited to damages commonly associated with the agreement in question. For damages caused by Online Auction or its Agents in the absence of intentional misconduct or gross negligence, Online Auction’s liability is limited to the extent that violations extend to obligations the satisfaction of which is of critical importance to the achievement of the respective agreement’s purpose (cardinal obligation). In the event that a cardinal obligation is violated by way of light negligence, liability is limited to damages commonly associated with the agreement in question. The above limitation of liability does not affect liability as prescribed by the German Product Liability Act or for damages from (i) injuries to life, body and health, or (ii) the assumption of a guarantee or procurement risk. To the extent that Online Auction’s liability is excluded or limited under the foregoing provisions, such provisions also operate to the benefit of Online Auction Agents in cases in which a User sues Online Auction Agents directly.</p>
+<p style="padding:2px"><b>Administrator Contact Details</b></p>
+Online Auction<br />
+BMS Institute of Technology.<br />
+Doddaballapur Main Road,<br />
+Avalahalli,Bangalore<br />
+India.<br />
+Fax: +31 252 347550<br />
+Email: pradeep.vwa@gmail.com<br />
+</p>
+<p>
+In the event of a valid cancellation, both parties shall be obliged to restore any benefits already received in accordance with legal provisions, and issue any gains (e.g. interest). If the User is unable or partially unable to restore the benefits, or only able to restore them in poor condition, to Online Auction, then the User is obligated to reimburse Online Auction for the corresponding value. Each party must fulfil its obligation for reimbursement within 30 days. The deadline begins for the User with the dispatch of the revocation; for Online Auction, it begins with the reception of the revocation sent by the User. The right to revoke the contract expires if Online Auction has begun providing the service with the User’s explicit consent before the end of the deadline for the revocation or if the User has initiated the service himself or herself.</p>
+
+
+      <div style="height:150px;"></div>
+   </div><div class="clear"></div>
+
+<a href="http://localhost/r/sregister-form.php" title="Click here for Registration Process"><font color=#00cc00>Accept</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../r/home.html" title="Not Agree ???"><font color=#00cc00>Decline</font></a><br/>
+          
+</div></div></table>
+                                     
+                         
+    <!--###########   FOOTER AREA   ############-->      
+
+    <div class="footer">
+      <p>Copyright &copy; 2012 BMS Institute of Technology | All Rights Reserved</p>
+      <p class="credits">Original design by : <a href="http://www.bmsit.org" title="Designer Homepage">Pradeep Kumar</a> | USN : <a href="http://www.bmsit.org" title="Designer Homepage">1BY09MCA28</a></p>
+    </div>      
+  </div> 
+</body>
+</html>
+
+
+

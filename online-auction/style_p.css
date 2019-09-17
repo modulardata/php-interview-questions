@@ -1,0 +1,37 @@
+<style type="text/css">
+#blueblock
+{
+	background-color: #666633;
+	color: #333;
+}
+#blueblock ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#blueblock li a
+{
+	display: block;
+	padding: 5px 5px 5px 8px;
+	border-left: 10px solid #d6d7b7;
+	background-color: #666633;
+	color: #fff;
+	text-decoration: none;	
+	width: 100%;
+}
+html>body #blueblock li a
+{
+	/*Non IE6 width*/
+	width: auto;
+}
+
+#blueblock li a:hover
+{
+	border-left: 10px solid #666633;
+	background-color: #d6d7b7;
+	color: #fff;
+}
+</style>

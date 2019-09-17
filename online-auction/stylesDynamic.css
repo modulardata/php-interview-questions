@@ -1,0 +1,61 @@
+
+.suplierTopCrv {
+	background: url(../images/BgSuplierCrv.png) no-repeat 0 0;
+}
+
+input.supplierBtnSubmit {
+	background: url(../images/bgButton.png) no-repeat top right;
+}
+
+#pageConShad {
+	background: url(../images/bgContShad.png) repeat-y 0 0;
+}
+
+.ComunityInner {
+	background: url(../images/footerYellowCrv.png) no-repeat 0 0;
+}
+
+.scan_wrapper {
+	background: url(../images/bg_tableline3.png) repeat-Y 0 0;
+}
+
+.bg_nav_left_shd {
+	background: url(../images/bg_shd_left_nav.png) no-repeat 0 bottom;
+}
+
+.tablestyle { 
+	background: url(../images/bg_tableline.png) repeat-Y 0 0;
+}
+
+.tablestyle2 {
+	background: url(../images/bg_tableline.png) repeat-Y 0 0;
+}
+
+/*05 feb */
+.columnStyle { 
+	background: url(../images/bg_tableline2.png) repeat-Y 0 0;
+}
+
+.columnStyle2 {
+	background: url(../images/bg_tableline2.png) repeat-Y 0 0;
+}
+
+.scan_wrapper {
+	background: url(../images/bg_tableline3.png) repeat-Y 0 0;
+}
+
+/*feb 25th 09 */
+.fourCol_wrapper {
+	background: url(../images/bg_tableline4.png) repeat-Y 0 0;
+}
+
+.advt3Col {
+	background: url(../images/bg_advtline.png) repeat-Y 0 0;     
+}
+
+.advt3Col2 {
+	background: url(../images/bg_advtline.png) repeat-Y 0 0;     
+}
+
+
+

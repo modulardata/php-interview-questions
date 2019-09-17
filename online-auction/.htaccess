@@ -1,0 +1,7 @@
+
+		php_value include_path ".:/usr/local/lib/php.ini"
+		php_flag short_open_tag  on
+		php_flag register_globals  off
+		php_flag output_buffering  off
+		php_flag display_errors off
+		php_value  upload_max_filesize  20M
