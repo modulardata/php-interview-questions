@@ -2511,9 +2511,6 @@ HTML Form:
 </html>
 ```
 
-In above example , a mail is sent to info@gmail.com which is receiver address. Subject, messages and headers are also given.
-
-
 #### Q. How file upload works?
 
 First, we define FORM method as POST and enctype='multipart/form-data' both property must be defined for uploading a file.
