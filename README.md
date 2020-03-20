@@ -10,7 +10,6 @@
     $b = "2$b";
 ```
 #### Q. Looking at the code below, what will the function `getTemplateName()` return?
-
 ```php
 class Template
 {
