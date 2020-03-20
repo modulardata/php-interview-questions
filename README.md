@@ -69,7 +69,6 @@ Yes, because we don’t need to mention the datatype of variables while declarin
 PHP is a cross-platform language and we do have multiple choices to install PHP on different operating systems. We can download PHP from official website and install it or we can make use of popular bundles like XAMPP and WAMP for Windows, LAMP for Linux and MAMP for iOS.
 
 #### Q. What is Composer?
-
 Composer is an application-level package manager for the PHP applications that provides a standard system for managing dependencies of different libraries and others. Some of the features of composer are: 
 
 - dependency resolution for PHP packages
