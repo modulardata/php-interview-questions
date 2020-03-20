@@ -2643,7 +2643,7 @@ The PHP configuration file, php.ini, is the final and most immediate way to affe
 cURL is a library that lets you make HTTP requests in PHP.
 
 ```php
-  $curl_handle=curl_init();
+  $curl_handle = curl_init();
   curl_setopt($curl_handle, CURLOPT_URL, 'http://www.google.com');
   curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 2);
   curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, 1);
