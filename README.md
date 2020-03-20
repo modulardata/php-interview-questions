@@ -343,7 +343,6 @@ echo str_word_count("Hello world!");
 ```
 
 Output:
-
 ```
 2
 ```
@@ -373,7 +372,6 @@ echo strpos("I love Bootsity, PHP tutorials!","Bootsity");
 ```
 
 Output:
-
 ```
 7
 ```
