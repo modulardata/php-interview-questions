@@ -9,15 +9,6 @@
     $b = &$a;
     $b = "2$b";
 ```
-#### Q. Name 2 ways to sort an array and explain what they do. For example, `sort()` arranges array elements from lowest to highest.
-#### Q. What’s the difference between functions `include()` and `require()`?
-#### Q. What are the `__construct()` and `__destruct()` methods in a PHP class?
-#### Q. How can you determine the number of items in an array?
-#### Q. What are two advantages of using namespaces?
-#### Q. What are the 3 scope levels available in PHP and how would you define them?
-#### Q. What are getters and setters and why are they important?
-#### Q. Explain the difference between `===` and `==`.
-#### Q. What is meant by dependency injection?
 #### Q. Looking at the code below, what will the function `getTemplateName()` return?
 
 	```php
@@ -2795,3 +2786,12 @@ Example:
 $name = $firstName ?? $username ?? $placeholder ?? "Guest"; 
 ```
 #### Q. What is an autoloader and what does it do?
+#### Q. Name 2 ways to sort an array and explain what they do. For example, `sort()` arranges array elements from lowest to highest.
+#### Q. What’s the difference between functions `include()` and `require()`?
+#### Q. What are the `__construct()` and `__destruct()` methods in a PHP class?
+#### Q. How can you determine the number of items in an array?
+#### Q. What are two advantages of using namespaces?
+#### Q. What are the 3 scope levels available in PHP and how would you define them?
+#### Q. What are getters and setters and why are they important?
+#### Q. Explain the difference between `===` and `==`.
+#### Q. What is meant by dependency injection?
