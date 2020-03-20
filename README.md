@@ -2801,6 +2801,7 @@ $name = $firstName ?? $username ?? $placeholder ?? "Guest";
 	- Singleton
 	- Factory
 #### Q. What is cURL extention used for?
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
