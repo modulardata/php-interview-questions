@@ -2605,8 +2605,9 @@ SQL injection is a code injection technique that might destroy your database.
 It usually occurs when you ask a user for input, like their username/userid, and instead of a name/id, the user gives you an SQL statement that you will unknowingly run on your database.
 
 Consider: 
-
-`SELECT * FROM Users WHERE UserId = 105 OR 1=1;`
+```sql
+SELECT * FROM Users WHERE UserId = 105 OR 1 = 1;
+```
 
 The SQL above is valid and will return ALL rows from the "Users" table, since OR 1=1 is always TRUE.
 A hacker might get access to all the user names and passwords in a database, by simply inserting 105 OR 1=1 into the input field.
