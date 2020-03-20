@@ -102,7 +102,7 @@ Packagist is the primary package repository for Composer. This is where develope
 
 To execute PHP files from command line, we can use any CLI or shell and pass the .php file to the php executable. An example is below:
 
-```
+```bash
 ~ /path/to/php /path/to/script.php
 ```
 
