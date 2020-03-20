@@ -2727,16 +2727,38 @@ function getTotal(float $a, float $b): float {
 
 New Hierarchy:
 
-```
- |- Exception implements Throwable
-       |- …
-    |- Error implements Throwable
-        |- TypeError extends Error
-        |- ParseError extends Error
-        |- ArithmeticError extends Error
-            |- DivisionByZeroError extends ArithmeticError
-        |- AssertionError extends Error
-```        
+
+* Throwable
+    * Error
+        * ArithmeticError
+            * DivisionByZeroError
+        * AssertionError
+        * ParseError
+        * TypeError
+    * Exception
+        * ClosedGeneratorException
+        * DOMException
+        * ErrorException
+        * IntlException
+        * LogicException
+            * BadFunctionCallException
+                * BadMethodCallException
+            * DomainException
+            * InvalidArgumentException
+            * LengthException
+            * OutOfRangeException
+        * PharException
+        * ReflectionException
+        * RuntimeException
+            * mysqli_sql_exception
+            * OutOfBoundsException
+            * OverflowException
+            * PDOException
+            * RangeException
+            * UnderflowException
+            * UnexpectedValueException
+
+       
       
 #### Q. What is use of Spaceship Operator?
  
