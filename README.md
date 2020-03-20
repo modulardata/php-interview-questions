@@ -33,7 +33,9 @@ function inline_tweet($content, $options)
     $tweet = strlen($content) > 140 ? substr($content, 0, 140 - (strlen($url)) : $content;
 
 	return sprintf(
-	'<span class="%1$s"><a href="https://twitter.com/intent/tweet?text=%2$s&url=%3$s&via=%4$s" target="_blank">%5$s</a><span>',
+    '<span class="%1$s">
+      <a href="https://twitter.com/intent/tweet?text=%2$s&url=%3$s&via=%4$s" target="_blank">%5$s</a>
+    <span>',
 	$options['class'],
 	urlencode($tweet),
 	urlencode($url),
