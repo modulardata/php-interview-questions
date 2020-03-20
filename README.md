@@ -24,14 +24,6 @@ class Template
 	}
 }
 ```
-#### Q. Name 3 ways to protect against SQL injection?
-#### Q. What is the difference between $_GET and $_POST
-#### Q. What are some magic methods in PHP? How might they be used?
-#### Q. Briefly explain one or both of the following design patterns:
-	- Singleton
-	- Factory
-#### Q. What is cURL extention used for?
-#### Q. What is a Closure?
 #### Q. Explain, line by line, what the following code does. Can it be improved? If so, how?
 
 	```php
@@ -2792,3 +2784,10 @@ $name = $firstName ?? $username ?? $placeholder ?? "Guest";
 #### Q. What are getters and setters and why are they important?
 #### Q. Explain the difference between `===` and `==`.
 #### Q. What is meant by dependency injection?
+#### Q. Name 3 ways to protect against SQL injection?
+#### Q. What is the difference between $_GET and $_POST
+#### Q. What are some magic methods in PHP? How might they be used?
+#### Q. Briefly explain one or both of the following design patterns:
+	- Singleton
+	- Factory
+#### Q. What is cURL extention used for?
