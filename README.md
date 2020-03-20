@@ -11,22 +11,20 @@
 ```
 #### Q. Looking at the code below, what will the function `getTemplateName()` return?
 
-	```php
-	class Template
-	{
-	    protected $template_name;
+```php
+class Template
+{
+    protected $template_name;
 
-	    public function __construct()
-	    {
-		$this->template_name = 'innovation_card';
-	    }
+    public function __construct() {
+   	  $this->template_name = 'innovation_card';
+    }
 
-	    public static function getTemplateName()
-	    {
-		return $this->template_name;
-	    }
+	public static function getTemplateName() {
+      return $this->template_name;
 	}
-	```
+}
+```
 #### Q. Name 3 ways to protect against SQL injection?
 #### Q. What is the difference between $_GET and $_POST
 #### Q. What are some magic methods in PHP? How might they be used?
