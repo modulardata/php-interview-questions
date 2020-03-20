@@ -1366,7 +1366,7 @@ gives us the entire URL of the current webpage.
 $_FILES[$fieldName]['name'] // The Original file name on the browser system. 
 $_FILES[$fieldName]['type'] // The file type determined by the browser. 
 $_FILES[$fieldName]['size'] // The Number of bytes of the file content. 
-$_FILES[$fieldName]['tmp_name'] // The temporary filename of the file in which the uploaded file was stored on the server. 
+$_FILES[$fieldName]['tmp_name'] // The temporary filename  
 $_FILES[$fieldName]['error'] // The error code associated with this file upload.
 ```
 
