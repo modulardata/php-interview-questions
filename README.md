@@ -1,14 +1,14 @@
 ## PHP Interview Questions and Answers
 
 
-#### Q. What is an autoloader and what does it do?
+
 #### Q. After the code below is run, what are the values of `$a` and `$b`?
 
-	```php
-	    $a = '5';
-	    $b = &$a;
-	    $b = "2$b";
-	```
+```php
+    $a = '5';
+    $b = &$a;
+    $b = "2$b";
+```
 #### Q. Name 2 ways to sort an array and explain what they do. For example, `sort()` arranges array elements from lowest to highest.
 #### Q. What’s the difference between functions `include()` and `require()`?
 #### Q. What are the `__construct()` and `__destruct()` methods in a PHP class?
@@ -2794,4 +2794,4 @@ Example:
 ```php
 $name = $firstName ?? $username ?? $placeholder ?? "Guest"; 
 ```
-
+#### Q. What is an autoloader and what does it do?
