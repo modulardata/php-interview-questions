@@ -2529,6 +2529,9 @@ Following are different types of enctype.
 
 - `text/plain` is a valid option, although it sends the data without any encoding at all. It is not recommended, as its behavior is difficult to predict.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Explain each Mcrypt function supported in PHP.
 
@@ -2560,6 +2563,9 @@ Hypertext Markup Language (HTML) is the standard markup language for creating we
    </BODY>
 </HTML>
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Differentiate between PHP and HTML.
 
