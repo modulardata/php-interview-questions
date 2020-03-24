@@ -2420,6 +2420,9 @@ Output:
 ```
 ec457d0a974c48d5685a7efa03d137dc8bbde7e3
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is encoding and decoding?
 
@@ -2489,6 +2492,9 @@ Output:
 ```
 8b1a9953c4611296a827abf8c47804d7
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Why can not a MD5 hash be decrypted?
 
