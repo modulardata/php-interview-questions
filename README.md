@@ -2186,6 +2186,10 @@ It is known as predefined constructor. Its better than user defined constructor 
 
 If predefined constructor and user defined constructor, both are defined in the same class, then predefined constructor will be treated as a Constructor while user defined constructor treated as normal method.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 #### Q. Classify constructor.
 
 1. Default constructor
@@ -2260,7 +2264,9 @@ class demo{
     }
 }
 ```
-
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How will you add a constructor function to a PHP class?
 
