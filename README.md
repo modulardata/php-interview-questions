@@ -614,6 +614,9 @@ Output:
 ```
 rose costs $2.50
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Differentiate between switch and if-else statement.
 
@@ -652,6 +655,10 @@ rose costs $2.50
 `$a = 10;`
 
 stores the value 10 in the variable $a
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Explain the logical operators.
 
