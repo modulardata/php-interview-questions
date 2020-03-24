@@ -1834,6 +1834,9 @@ flock($fo,LOCK_UN) or die('ERROR:cannot unlock file');
 fclose($fo);
 echo "Data written to file";
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How will you check if a file exists or not using php?
 
@@ -1907,6 +1910,9 @@ Output:
 ```
 190 Bytes
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How to write the contents inside file?
 
