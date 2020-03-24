@@ -1560,6 +1560,9 @@ The HTTP client error codes start with 4. Example: 404 is used for 'not found' s
 1xx: Informational
 It means the request has been received and the process is continuing.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What are the HTTP success codes?
 
@@ -1583,6 +1586,9 @@ It means the client sent an invalid request.
 5xx: Server Error
 It means the server failed to fulfill an apparently valid request.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is API?
 
