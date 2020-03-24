@@ -1722,6 +1722,10 @@ Sessions are used when more sensitive information like password or id is being p
 - You want to store global variables in an efficient and more secure way compared to passing them in the URL
 You are developing an application such as a shopping cart that has to temporary store information with a capacity larger than 4KB.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 #### Q. When do we need a cookie and not a session?
 
 - Http is a stateless protocol; cookies allow us to track the state of the application using small files stored on the user’s computer.
@@ -1770,6 +1774,9 @@ When deleting a cookie you should assure that the expiration date is in the past
 // set the expiration date to one hour ago
 setcookie("user", "abhi", time()-60*60);
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How can we implement 'remember me' using PHP?
 
