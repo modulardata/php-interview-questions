@@ -478,6 +478,9 @@ Both the functions finds the first occurrence of a string inside another string 
 
 `string urlencode (string $str )` function is used to encode a string in PHP. This function is convenient when encoding a string to be used in a query part of a URL, as a convenient way to pass variables to the next page.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Differentiate between strcmp() and strncmp().
 
@@ -560,6 +563,9 @@ Output:
 This is $name website
 for PHP, Laravel and Angular Tutorials
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Explain if-else statement.
 
