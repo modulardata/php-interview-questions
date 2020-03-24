@@ -1396,6 +1396,9 @@ echo $val1; // Output will be null
 unset($val);  // remove a single variable
 unset($val1, $val2, $val3); // remove multiple variables
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How ereg() function works?
 
@@ -1425,7 +1428,9 @@ $physics−>setPrice(10);
 $chemistry−>setPrice(15);
 $maths−>setPrice(7);
 ```
-
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How can we display the correct URL of the current webpage?
 
