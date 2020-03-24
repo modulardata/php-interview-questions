@@ -252,6 +252,9 @@ Output:
 My $variable will not print!
 My name will print
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How can you convert string into array elements?
 
@@ -326,6 +329,9 @@ Output:
 ```
 0 1 2
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What are PHP magic constants?
 
