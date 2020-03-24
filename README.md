@@ -1619,6 +1619,10 @@ In many applications, REST API is a need because this is the lightest way to cre
 
 REST API can be used by any application that can connect to the internet. If data from an application can be created, read, updated or deleted using another application, it usually means a REST API is used.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 #### Q. What is JSON?
 
 JSON: JavaScript Object Notation.
@@ -1674,6 +1678,9 @@ Cookie is a small text file (generally up to 4KB) created by a website that is s
 | can store limited data     | can store unlimited data      |
 | data is on client side and hence easily accessible | data is on server side and is difficult ot access      |
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How do we start a session?
 
