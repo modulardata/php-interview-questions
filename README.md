@@ -811,6 +811,9 @@ The number is: 8
 The number is: 9 
 The number is: 10 
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Explain foreach loop with example.
 
@@ -853,6 +856,10 @@ while (1) {
 ```
 
 In all the above 3 cases, the loops will execute infinite times as the condition is always true i.e., it returns 1 for `while` and `do-while` loops and no ending condition for the `for` loop.
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How can you implement recursion in PHP?
 
