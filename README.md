@@ -379,6 +379,9 @@ Output:
 ```
 !dlroW olleH
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How to find the position of a specific text in a string?
 
@@ -422,6 +425,10 @@ echo str_replace("world","Peter","Hello world!");
 ```
 
 Here we have replaced the characters "world" in the string "Hello world!" with "Peter":
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Differentiate between str_replace() and str_ireplace().
 
