@@ -703,6 +703,9 @@ Examples:
 1 == "1": true // "1" gets casted to an integer, which is 1
 "foo" === "foo": true // both operands are strings and have the same value
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Explain pre and post increment with example.
 
@@ -752,6 +755,9 @@ The number is: 3
 The number is: 4 
 The number is: 5
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Explain do-while loop with example.
 
