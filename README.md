@@ -1042,6 +1042,9 @@ array(3) {
 	}
 }
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What do we mean by the base address of an array?
 
@@ -1120,6 +1123,9 @@ Array (
         [5] => day.
     )
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How can we concatenate arrays in PHP?
 
