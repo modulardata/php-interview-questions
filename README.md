@@ -1194,7 +1194,9 @@ Output:
 ```
 $a = Cat; $b = Dog; $c = Horse
 ```
-
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is a function?
 
@@ -1242,6 +1244,9 @@ Output:
 ```
 Hello
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Explain call by reference.
 
