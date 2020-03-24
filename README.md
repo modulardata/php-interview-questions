@@ -1972,6 +1972,9 @@ Example:
 ```
 
 In this program we use mkdir()function . Pass the directory name inside this function to create the directory.
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. How to get files(contents) from directory?
 
@@ -2021,6 +2024,9 @@ require will produce a fatal error (`E_COMPILE_ERROR`) and stop the script.
 
 The require() function is identical to include(), except that it handles errors differently. If an error occurs, the include() function generates a warning, but the script will continue execution. The require() generates a fatal error, and the script will stop.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is RegEx?
 
