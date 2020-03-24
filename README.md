@@ -2817,6 +2817,10 @@ Then run it via command line:
 
 You ran myphp.php and executed those commands through the php interpreter and dumped a ton of messy html and javascript to screen.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 #### Q. What is PDO in PHP?
 
 PDO stands for PHP Data Object.
@@ -2869,6 +2873,9 @@ $a; //Returns Hello
 $$a; //Returns World
 $$$a; //Returns Foo
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What are return type declarations?
 
