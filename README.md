@@ -2073,6 +2073,9 @@ echo preg_match("/boot/", $my_url); // prints true
 | <b>(.*)</b> | It matches any string enclosed within <b> and </b>.      |
 | p(hp)* | matches any string containing a p followed by zero or more instances of the sequence php.      |
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is OOPs?
 
@@ -2134,6 +2137,10 @@ Aggregation is a relationship between two classes that is best described as a "h
 #### Q. What is composition?
 
 Composition is a special case of aggregation. In other words, a restricted aggregation is called composition. When an object contains the other object and the contained object cannot exist without the other object, then it is called composition.
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is association?
 
