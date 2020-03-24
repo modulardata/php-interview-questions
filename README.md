@@ -133,9 +133,11 @@ We can use function `php_info();` inside scripts and using command `php -v` from
 
 
 #### Q. What is interpreter?
-
 PHP interpreter executes command from a PHP script line by line and provides the output to the executer.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Is PHP compiled or interpreted?
 
@@ -190,6 +192,9 @@ To define a constant you have to use `define()` function and to retrieve the val
 define("MINSIZE", 50);
 echo MINSIZE;
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is the purpose of constant() function?
 
