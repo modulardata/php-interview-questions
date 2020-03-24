@@ -2699,6 +2699,10 @@ if ($_POST['upload']) {
     echo "Stored in: " . $_FILES["file"]["tmp_name"];
 }
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 #### Q. What is SQL?
 
 SQL stands for Structured Query Language. SQL is a standardized query language for requesting information from different databases
@@ -2747,6 +2751,9 @@ try {
     }
     $conn = null;
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is SQL injection?
 
