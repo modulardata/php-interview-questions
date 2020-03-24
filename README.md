@@ -44,6 +44,9 @@ function inline_tweet($content, $options)
 	);
 }
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is PHP?
 PHP or Hypertext Pre-processor is a general purpose programming language written in C and used by developers to create dynamic web applications. PHP Supports both Procedural Programming and Object Oriented Programming.
@@ -93,6 +96,9 @@ To manage dependencies, composer uses composer.json file, which looks like:
     }
 }
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is Packagist?
 
