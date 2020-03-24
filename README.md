@@ -1302,6 +1302,10 @@ function factorial($n) {
 ```
 Here n is the formal parameters.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 #### Q. Maximum how many arguments are allowed in a function in PHP?
 
 There is no limit but you can use `func_get_args()`, `func_get_arg()` and `func_num_args()` to avoid writing all the arguments in the function definition.
@@ -1354,6 +1358,9 @@ function demo() {
         return expression2;
 }
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is the use of ini_set()?
 
