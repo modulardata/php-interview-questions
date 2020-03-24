@@ -2316,6 +2316,9 @@ The class that is fully abstract is called interface.
 
 Any class that implement this interface must use implements keyword and all the methods that are declared in the class must be defined here. otherwise this class also need to be defined as abstract.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What do you mean by an exception?
 
@@ -2353,6 +2356,9 @@ try {
     print "this part is always executed n";
 }
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Differentiate between exception and error.
 
