@@ -912,6 +912,9 @@ Output:
 ```
 1234
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. Explain continue statement with example.
 
@@ -957,6 +960,9 @@ Output:
 ```
 tick_handler() called tick_handler() called tick_handler() called 3tick_handler() called tick_handler() called
 ```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What is require in PHP?
 Require is identical to include except upon failure it will also produce a fatal E_COMPILE_ERROR level error. In other words, it will halt the script whereas include only emits a warning (E_WARNING) which allows the script to continue.
