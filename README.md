@@ -1471,6 +1471,10 @@ A web browser may be the client, and an application on a computer that hosts a w
 
 Example: A client (browser) submits an HTTP request to the server; then the server returns a response to the client. The response contains status information about the request and may also contain the requested content.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 #### Q. What are PHP superglobals?
 
 Several predefined variables in PHP are "superglobals", which means that they are always accessible, regardless of scope - and you can access them from any function, class or file without having to do anything special.
@@ -1512,8 +1516,11 @@ It contains a reference to every variable which is currently available within th
 $_SERVER − This is an array containing information such as headers, paths, and script locations. The entries in this array are created by the web server. There is no guarantee that every web server will provide any of these. See next section for a complete list of all the SERVER variables.
 
 #### Q. What is the purpose of $_COOKIE variable in PHP?
-
 An associative array of variables passed to the current script via HTTP cookies.
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 #### Q. What do you mean by environment variable in PHP?
 
