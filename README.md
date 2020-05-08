@@ -1611,7 +1611,7 @@ Most often-used types of web service:
 REST stands for "REpresentational State Transfer". It is a concept or architecture for managing information over the internet. REST concepts are referred to as resources. A representation of a resource must be stateless. It is usually represented by JSON.
 API stands for "Application Programming Interface". It is a set of rules that allows one piece of software application to talk to another. Those "rules" can include create, read, update and delete operations.
 
-#### Q. *** Why do we need REST API?***
+#### Q. ***Why do we need REST API?***
 
 In many applications, REST API is a need because this is the lightest way to create, read, update or delete information between different applications over the internet or HTTP protocol. This information is presented to the user in an instant especially if you use JavaScript to render the data on a webpage.
 
@@ -2055,7 +2055,7 @@ echo preg_match("/boot/", $my_url); // prints true
 | ------------- |-------------|
 | p+      | matches any string containing at least one p. |
 | p*     | matches any string containing zero or more p's.      |
-| p?*** | matches any string containing zero or one p's.      |
+| p? | matches any string containing zero or one p's.      |
 | p{N} | matches any string containing a sequence of N p's      |
 | p{2,3} | matches any string containing a sequence of two or three p's.      |
 | p{2, } | matches any string containing a sequence of at least two p's.      |
@@ -2111,7 +2111,7 @@ A class is a template that is used to create objects, and to define object data 
 
 No, PHP is not purely object oriented. PHP supports object oriented approach as well as procedural approach.
 
-#### Q. ***Differentiate between OOPs & POPs.
+#### Q. ***Differentiate between OOPs & POPs?***
 
 | OOPs      | POPs           |
 | ------------- |-------------|
@@ -2959,7 +2959,7 @@ $name = $firstName ?? $username ?? $placeholder ?? "Guest";
 #### Q. ***What is meant by dependency injection?***
 #### Q. ***Name 3 ways to protect against SQL injection?***
 #### Q. ***What is the difference between $_GET and $_POST?***
-#### Q. ***What are some magic methods in PHP? How might they be used?
+#### Q. ***What are some magic methods in PHP? How might they be used?***
 #### Q. ***Briefly explain one or both of the following design patterns?***
 	- Singleton
 	- Factory
