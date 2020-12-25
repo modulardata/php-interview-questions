@@ -41,7 +41,7 @@ Yes, because we don’t need to mention the datatype of variables while declarin
 
 PHP is a cross-platform language and we do have multiple choices to install PHP on different operating systems. We can download PHP from official website and install it or we can make use of popular bundles like XAMPP and WAMP for Windows, LAMP for Linux and MAMP for iOS.
 
-[WAMP Server](https://www.wampserver.com/en/)
+* **[Download WAMP Server](https://www.wampserver.com/en/)**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
