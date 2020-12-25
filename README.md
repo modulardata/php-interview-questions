@@ -4,65 +4,6 @@
 
 <br/>
 
-## Q. ***After the code below is run, what are the values of `$a` and `$b`?***
-
-```php
-    $a = '5';
-    $b = &$a;
-    $b = "2$b";
-```
-
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
-
-## Q. ***Looking at the code below, what will the function `getTemplateName()` return?***
-
-```php
-class Template
-{
-    protected $template_name;
-
-    public function __construct() {
-   	  $this->template_name = 'innovation_card';
-    }
-
-	public static function getTemplateName() {
-      return $this->template_name;
-	}
-}
-```
-
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
-
-## Q. ***Explain, line by line, what the following code does. Can it be improved?***
-
-```php
-function inline_tweet($content, $options)
-{
-    $url = get_url();
-    $content = trim($content);
-    $tweet = strlen($content) > 140 ? substr($content, 0, 140 - (strlen($url)) : $content;
-
-	return sprintf(
-    '<span class="%1$s">
-      <a href="https://twitter.com/intent/tweet?text=%2$s&url=%3$s&via=%4$s" target="_blank">%5$s</a>
-    <span>',
-	$options['class'],
-	urlencode($tweet),
-	urlencode($url),
-	'trendwatching',
-	$content
-	);
-}
-```
-
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
-
 ## Q. ***What is PHP?***
 
 PHP or Hypertext Pre-processor is a general purpose programming language written in C and used by developers to create dynamic web applications. PHP Supports both Procedural Programming and Object Oriented Programming.
@@ -3322,6 +3263,65 @@ $compare = 2 <=> 1
 2 < 1? return -1
 2 = 1? return 0
 2 > 1? return 1
+```
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Q. ***After the code below is run, what are the values of `$a` and `$b`?***
+
+```php
+    $a = '5';
+    $b = &$a;
+    $b = "2$b";
+```
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Q. ***Looking at the code below, what will the function `getTemplateName()` return?***
+
+```php
+class Template
+{
+    protected $template_name;
+
+    public function __construct() {
+   	  $this->template_name = 'innovation_card';
+    }
+
+	public static function getTemplateName() {
+      return $this->template_name;
+	}
+}
+```
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Q. ***Explain, line by line, what the following code does. Can it be improved?***
+
+```php
+function inline_tweet($content, $options)
+{
+    $url = get_url();
+    $content = trim($content);
+    $tweet = strlen($content) > 140 ? substr($content, 0, 140 - (strlen($url)) : $content;
+
+	return sprintf(
+    '<span class="%1$s">
+      <a href="https://twitter.com/intent/tweet?text=%2$s&url=%3$s&via=%4$s" target="_blank">%5$s</a>
+    <span>',
+	$options['class'],
+	urlencode($tweet),
+	urlencode($url),
+	'trendwatching',
+	$content
+	);
+}
 ```
 
 <div align="right">
