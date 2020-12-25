@@ -78,34 +78,6 @@ To manage dependencies, composer uses composer.json file, which looks like:
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-## Q. ***What is Packagist?***
-
-Packagist is the primary package repository for Composer. This is where developers publish their packages or libraries that can be used by other developers which are using composer.
-
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
-
-## Q. ***How do we execute a PHP script from the command line?***
-
-To execute PHP files from command line, we can use any CLI or shell and pass the .php file to the php executable. An example is below:
-
-```bash
-~ /path/to/php /path/to/script.php
-```
-
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
-
-## Q. ***What is virtual host?***
-
-Virtual hosting is a method for hosting multiple domain names (with separate handling of each name) on a single server (or pool of servers). This allows one server to share its resources, such as memory and processor cycles, without requiring all services provided to use the same host name. 
-
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
-
 ## Q. ***How to check current PHP version and other information about our system?***
 
 We can use function `php_info();` inside scripts and using command `php -v` from command line.
@@ -139,18 +111,10 @@ then, *PHP Interpretor* does:
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-## Q. ***What do we mean by a Framework?***
-
-A framework is a layered structure indicating what kind of programs can or should be built and how they would interrelate. Some computer system frameworks also include actual programs, specify programming interfaces, or offer programming tools for using the frameworks.
-Example: Laravel, Zend, CakePHP
-
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
-
-## Q. ***How many datatypes are there in PHP?***
+## Q. ***Explain datatypes in PHP?***
 
 Built-in datatypes in PHP:
+
 **Integer** - whole numbers
 **String** - alphanumeric text
 **Float** - decimal point numbers(also called double)
@@ -215,6 +179,7 @@ Variable scope is known as its boundary within which it can be visible or access
 - Global variables (special global scope)
 - Static variables (local scope)
 - Function parameters (local scope)
+
 When a variable is accessed outside its scope it will cause PHP error undefined variable.
 
 <div align="right">
@@ -324,9 +289,7 @@ The differences are:
 
 ## Q. ***Explain static variables?***
 
-When a function is completed, all of its variables are normally deleted.
-
-However, sometimes you want a local variable to not be deleted then use static keyword.
+The variables declared as function parameters, which are destroyed on the function\'s exit, a static variable will not lose its value when the function exits and will still hold that value should the function be called again.
 
 Example:
 
