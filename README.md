@@ -392,7 +392,7 @@ Output:
 
 ## Q. ***How can you change cases in a string?***
 
-The `strtoupper()` function converts a string to uppercase and `strtolower()` function converts a string to uppercase.
+The `strtoupper()` function converts a string to uppercase and `strtolower()` function converts a string to lowercase.
 
 Example:
 
