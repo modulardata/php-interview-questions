@@ -392,7 +392,7 @@ Output:
 
 ## Q. ***How can you change cases in a string?***
 
-The `strtoupper()` function converts a string to uppercase and `strtolower()` function converts a string to uppercase.
+The `strtoupper()` function converts a string to uppercase and `strtolower()` function converts a string to lowercase.
 
 Example:
 
@@ -1262,7 +1262,26 @@ Array (
 
 ## Q. ***Which function counts all the values of an array?***
 
-`array_count_values()` function is used to count all the values of an array. PHP `array_count_values()` returns an array that has the values of given array as keys and their frequency in the array as values.
+`array_count_values()` function is used to count the frequency of values in an array. 
+`array_count_values()` returns an associative array that has the values of the given array as the keys and frequency as the values.
+
+Example:
+
+```php
+$array = array(1, "hello", 1, "world", "hello");
+print_r(array_count_values($array));
+```
+
+Output:
+
+```php
+Array
+(
+    [1] => 2
+    [hello] => 2
+    [world] => 1
+)
+```
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
